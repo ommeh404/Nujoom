@@ -1,0 +1,11 @@
+account_manager_name,email,total_interactions,avg_interactions_per_restaurant,avg_restaurant_rating,restaurant_churn_count
+Suhail,suhail@nujoom.com,154,6.7,3.739407814107191,6
+Azfan,azfan@nujoom.com,154,6.16,3.7376508796822856,6
+Rahul,rahul@nujoom.com,146,6.64,3.7610686969251996,4
+Om,om@nujoom.com,117,6.88,3.7247733792795095,5
+Akarsh,akarsh@nujoom.com,170,6.54,3.754739385750582,4
+Muhammad,muhammad@nujoom.com,127,7.06,3.7569928742694754,4
+Priya,priya@nujoom.com,124,6.53,3.775885216822337,5
+Mariyam,mariyam@nujoom.com,114,6.71,3.7155770035972773,8
+Lisa,lisa@nujoom.com,108,6.0,3.7191875506138286,4
+Victoria,victoria@nujoom.com,80,5.33,3.7441320662749926,3

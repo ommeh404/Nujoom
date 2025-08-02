@@ -1,0 +1,201 @@
+restaurant_id,total_orders,total_revenue,avg_delivery_time,avg_rating,name,city,cuisine_type,onboarding_date,account_manager_id,name_manager,email,churn_risk
+1001,108,12847.22,40.574074074074076,3.7037037037037037,Restaurant 1001,Al Rayyan,Sushi,2023-04-14,7,Priya,priya@nujoom.com,False
+1002,112,14421.07,39.9375,3.769642857142857,Restaurant 1002,Lusail,Italian,2021-09-01,4,Om,om@nujoom.com,False
+1003,104,12239.73,40.42307692307692,3.7874999999999996,Restaurant 1003,Doha,Qatari,2023-07-28,6,Muhammad,muhammad@nujoom.com,False
+1004,100,12092.73,41.5,3.946,Restaurant 1004,Umm Salal,Italian,2022-02-02,5,Akarsh,akarsh@nujoom.com,False
+1005,80,9142.18,40.2375,3.75125,Restaurant 1005,Doha,Qatari,2023-06-05,4,Om,om@nujoom.com,True
+1006,101,11595.03,41.32673267326733,3.705940594059406,Restaurant 1006,Lusail,Sushi,2023-02-05,1,Suhail,suhail@nujoom.com,False
+1007,91,11232.82,38.637362637362635,3.8032967032967036,Restaurant 1007,Al Wakrah,Qatari,2023-01-06,5,Akarsh,akarsh@nujoom.com,True
+1008,82,9344.21,41.5609756097561,3.7451219512195126,Restaurant 1008,Doha,Indian,2023-08-19,6,Muhammad,muhammad@nujoom.com,True
+1009,106,12208.78,41.471698113207545,3.7566037735849056,Restaurant 1009,Lusail,Qatari,2022-01-27,1,Suhail,suhail@nujoom.com,False
+1010,100,11810.06,40.35,3.846,Restaurant 1010,Al Wakrah,Italian,2023-03-21,6,Muhammad,muhammad@nujoom.com,False
+1011,130,14020.75,38.80769230769231,3.6115384615384616,Restaurant 1011,Umm Salal,Qatari,2022-07-17,1,Suhail,suhail@nujoom.com,False
+1012,106,12469.57,39.60377358490566,3.6113207547169814,Restaurant 1012,Al Wakrah,Italian,2023-08-13,8,Mariyam,mariyam@nujoom.com,False
+1013,91,10070.16,40.7032967032967,3.705494505494505,Restaurant 1013,Al Wakrah,Indian,2023-07-20,1,Suhail,suhail@nujoom.com,True
+1014,95,10707.98,41.77894736842105,3.836842105263158,Restaurant 1014,Doha,Indian,2021-06-03,2,Azfan,azfan@nujoom.com,False
+1015,87,9271.51,40.689655172413794,3.7551724137931033,Restaurant 1015,Al Wakrah,Burger,2022-11-20,6,Muhammad,muhammad@nujoom.com,True
+1016,80,9354.02,38.5625,3.78375,Restaurant 1016,Doha,Burger,2021-10-19,7,Priya,priya@nujoom.com,True
+1017,81,9286.34,40.382716049382715,3.645679012345679,Restaurant 1017,Umm Salal,Italian,2021-02-27,6,Muhammad,muhammad@nujoom.com,True
+1018,102,11565.27,38.833333333333336,3.7401960784313726,Restaurant 1018,Umm Salal,Burger,2022-01-31,3,Rahul,rahul@nujoom.com,False
+1019,101,10731.16,41.82178217821782,3.6514851485148516,Restaurant 1019,Umm Salal,Italian,2023-08-24,2,Azfan,azfan@nujoom.com,False
+1020,93,10992.96,40.645161290322584,3.7516129032258063,Restaurant 1020,Al Rayyan,Italian,2023-02-23,7,Priya,priya@nujoom.com,False
+1021,84,9356.94,41.05952380952381,3.810714285714286,Restaurant 1021,Lusail,Italian,2023-06-18,8,Mariyam,mariyam@nujoom.com,True
+1022,109,12706.34,40.74311926605505,3.645871559633027,Restaurant 1022,Al Wakrah,Burger,2021-08-03,9,Lisa,lisa@nujoom.com,False
+1023,86,9566.26,38.36046511627907,3.7604651162790694,Restaurant 1023,Al Rayyan,Burger,2023-01-27,7,Priya,priya@nujoom.com,True
+1024,120,13306.83,39.225,3.6933333333333334,Restaurant 1024,Umm Salal,Sushi,2022-06-15,7,Priya,priya@nujoom.com,False
+1025,80,9117.41,40.2625,3.7637500000000004,Restaurant 1025,Doha,Qatari,2022-10-08,8,Mariyam,mariyam@nujoom.com,True
+1026,92,10274.81,40.891304347826086,3.7652173913043474,Restaurant 1026,Lusail,Qatari,2021-08-26,1,Suhail,suhail@nujoom.com,False
+1027,101,10772.61,38.396039603960396,3.685148514851485,Restaurant 1027,Lusail,Burger,2023-04-28,5,Akarsh,akarsh@nujoom.com,False
+1028,105,11649.11,39.80952380952381,3.6257142857142854,Restaurant 1028,Umm Salal,Qatari,2021-10-20,8,Mariyam,mariyam@nujoom.com,False
+1029,115,13174.68,37.530434782608694,3.7956521739130435,Restaurant 1029,Al Rayyan,Qatari,2023-01-14,5,Akarsh,akarsh@nujoom.com,False
+1030,96,11016.69,43.427083333333336,3.6927083333333335,Restaurant 1030,Al Wakrah,Burger,2022-03-21,9,Lisa,lisa@nujoom.com,False
+1031,127,15110.31,40.53543307086614,3.77244094488189,Restaurant 1031,Lusail,Qatari,2023-09-15,10,Victoria,victoria@nujoom.com,False
+1032,92,10169.9,38.82608695652174,3.8249999999999997,Restaurant 1032,Umm Salal,Burger,2022-03-11,8,Mariyam,mariyam@nujoom.com,False
+1033,93,10342.18,39.634408602150536,3.6946236559139787,Restaurant 1033,Lusail,Italian,2021-03-09,2,Azfan,azfan@nujoom.com,False
+1034,83,9588.97,38.18072289156626,3.769879518072289,Restaurant 1034,Al Wakrah,Indian,2021-04-21,5,Akarsh,akarsh@nujoom.com,True
+1035,127,14083.23,39.45669291338583,3.732283464566929,Restaurant 1035,Umm Salal,Burger,2022-05-17,6,Muhammad,muhammad@nujoom.com,False
+1036,127,14500.4,40.110236220472444,3.7141732283464566,Restaurant 1036,Lusail,Burger,2021-10-21,1,Suhail,suhail@nujoom.com,False
+1037,125,14224.74,39.984,3.6848,Restaurant 1037,Doha,Burger,2023-08-04,3,Rahul,rahul@nujoom.com,False
+1038,121,13806.32,41.21487603305785,3.7586776859504134,Restaurant 1038,Al Wakrah,Qatari,2022-10-01,2,Azfan,azfan@nujoom.com,False
+1039,123,13449.44,39.97560975609756,3.66260162601626,Restaurant 1039,Al Wakrah,Italian,2023-05-08,3,Rahul,rahul@nujoom.com,False
+1040,109,12603.91,40.944954128440365,3.8174311926605506,Restaurant 1040,Al Rayyan,Italian,2022-01-05,5,Akarsh,akarsh@nujoom.com,False
+1041,90,11237.26,37.56666666666667,3.8077777777777775,Restaurant 1041,Al Wakrah,Italian,2021-08-21,4,Om,om@nujoom.com,True
+1042,97,11209.0,40.18556701030928,3.715463917525773,Restaurant 1042,Al Rayyan,Qatari,2022-06-22,2,Azfan,azfan@nujoom.com,False
+1043,90,10180.22,40.266666666666666,3.5488888888888885,Restaurant 1043,Umm Salal,Qatari,2023-07-19,4,Om,om@nujoom.com,True
+1044,109,12465.67,41.091743119266056,3.8688073394495412,Restaurant 1044,Lusail,Burger,2022-03-29,7,Priya,priya@nujoom.com,False
+1045,107,12405.94,39.39252336448598,3.765420560747663,Restaurant 1045,Al Wakrah,Indian,2022-02-18,4,Om,om@nujoom.com,False
+1046,94,10984.7,38.88297872340426,3.724468085106383,Restaurant 1046,Al Rayyan,Italian,2022-04-18,3,Rahul,rahul@nujoom.com,False
+1047,108,12588.86,40.092592592592595,3.8064814814814816,Restaurant 1047,Doha,Italian,2022-08-06,6,Muhammad,muhammad@nujoom.com,False
+1048,124,14685.8,40.07258064516129,3.700806451612903,Restaurant 1048,Al Wakrah,Indian,2022-06-20,2,Azfan,azfan@nujoom.com,False
+1049,87,10384.27,39.2183908045977,3.801149425287356,Restaurant 1049,Lusail,Sushi,2023-09-07,9,Lisa,lisa@nujoom.com,True
+1050,98,11097.68,38.10204081632653,3.788775510204082,Restaurant 1050,Al Rayyan,Italian,2023-09-23,9,Lisa,lisa@nujoom.com,False
+1051,92,10042.02,39.53260869565217,3.7217391304347824,Restaurant 1051,Lusail,Qatari,2023-08-23,2,Azfan,azfan@nujoom.com,False
+1052,103,11950.68,41.05825242718446,3.6776699029126214,Restaurant 1052,Al Wakrah,Italian,2022-09-01,2,Azfan,azfan@nujoom.com,False
+1053,122,14838.71,40.10655737704918,3.709016393442623,Restaurant 1053,Al Wakrah,Sushi,2022-04-07,1,Suhail,suhail@nujoom.com,False
+1054,85,9593.34,38.43529411764706,3.6905882352941175,Restaurant 1054,Al Rayyan,Qatari,2022-10-08,5,Akarsh,akarsh@nujoom.com,True
+1055,108,12177.35,39.77777777777778,3.8629629629629627,Restaurant 1055,Lusail,Burger,2022-02-25,1,Suhail,suhail@nujoom.com,False
+1056,118,13519.039999999999,40.686440677966104,3.7194915254237286,Restaurant 1056,Doha,Burger,2021-11-07,4,Om,om@nujoom.com,False
+1057,112,12295.78,40.169642857142854,3.6107142857142853,Restaurant 1057,Umm Salal,Italian,2021-10-18,10,Victoria,victoria@nujoom.com,False
+1058,105,11926.97,39.97142857142857,3.775238095238095,Restaurant 1058,Lusail,Burger,2021-08-01,5,Akarsh,akarsh@nujoom.com,False
+1059,112,12974.67,40.75892857142857,3.8330357142857143,Restaurant 1059,Doha,Italian,2021-08-25,4,Om,om@nujoom.com,False
+1060,104,11750.24,39.39423076923077,3.793269230769231,Restaurant 1060,Al Wakrah,Burger,2021-04-01,8,Mariyam,mariyam@nujoom.com,False
+1061,116,13849.95,40.69827586206897,3.7301724137931034,Restaurant 1061,Al Rayyan,Indian,2022-12-21,1,Suhail,suhail@nujoom.com,False
+1062,110,12794.44,40.25454545454546,3.690909090909091,Restaurant 1062,Doha,Burger,2021-06-20,5,Akarsh,akarsh@nujoom.com,False
+1063,96,10457.8,37.729166666666664,3.6843749999999997,Restaurant 1063,Doha,Sushi,2021-11-17,6,Muhammad,muhammad@nujoom.com,False
+1064,128,15106.16,40.5,3.71953125,Restaurant 1064,Al Wakrah,Burger,2021-10-10,9,Lisa,lisa@nujoom.com,False
+1065,85,9490.39,40.2,3.7364705882352944,Restaurant 1065,Umm Salal,Qatari,2022-05-16,3,Rahul,rahul@nujoom.com,True
+1066,82,9662.63,41.48780487804878,3.684146341463415,Restaurant 1066,Umm Salal,Sushi,2022-11-22,2,Azfan,azfan@nujoom.com,True
+1067,111,12673.65,38.26126126126126,3.7387387387387387,Restaurant 1067,Al Wakrah,Burger,2022-01-19,4,Om,om@nujoom.com,False
+1068,99,11114.99,41.93939393939394,3.750505050505051,Restaurant 1068,Umm Salal,Qatari,2022-01-25,2,Azfan,azfan@nujoom.com,False
+1069,84,9581.31,41.54761904761905,3.6595238095238094,Restaurant 1069,Al Rayyan,Sushi,2021-01-19,9,Lisa,lisa@nujoom.com,True
+1070,125,14471.12,39.408,3.8184,Restaurant 1070,Doha,Italian,2022-07-19,5,Akarsh,akarsh@nujoom.com,False
+1071,93,9748.92,40.16129032258065,3.746236559139785,Restaurant 1071,Al Rayyan,Burger,2021-01-24,5,Akarsh,akarsh@nujoom.com,False
+1072,125,14487.92,37.936,3.8016,Restaurant 1072,Doha,Qatari,2021-01-22,4,Om,om@nujoom.com,False
+1073,103,12059.21,37.48543689320388,3.64368932038835,Restaurant 1073,Doha,Italian,2022-04-10,10,Victoria,victoria@nujoom.com,False
+1074,127,14939.93,38.645669291338585,3.7527559055118114,Restaurant 1074,Doha,Indian,2022-09-25,2,Azfan,azfan@nujoom.com,False
+1075,85,8805.15,39.976470588235294,3.691764705882353,Restaurant 1075,Al Rayyan,Sushi,2021-08-18,8,Mariyam,mariyam@nujoom.com,True
+1076,102,12019.92,40.627450980392155,3.743137254901961,Restaurant 1076,Lusail,Indian,2022-11-28,8,Mariyam,mariyam@nujoom.com,False
+1077,120,13768.4,40.075,3.691666666666667,Restaurant 1077,Umm Salal,Sushi,2022-04-27,4,Om,om@nujoom.com,False
+1078,95,10554.12,43.1578947368421,3.6926315789473687,Restaurant 1078,Al Rayyan,Qatari,2022-02-10,5,Akarsh,akarsh@nujoom.com,False
+1079,121,14459.4,43.429752066115704,3.6867768595041324,Restaurant 1079,Al Rayyan,Italian,2021-06-23,1,Suhail,suhail@nujoom.com,False
+1080,99,11723.22,42.06060606060606,3.694949494949495,Restaurant 1080,Al Wakrah,Indian,2021-07-05,5,Akarsh,akarsh@nujoom.com,False
+1081,107,12184.28,40.99065420560748,3.669158878504673,Restaurant 1081,Lusail,Qatari,2021-10-18,10,Victoria,victoria@nujoom.com,False
+1082,115,13038.55,38.947826086956525,3.7052173913043474,Restaurant 1082,Lusail,Sushi,2021-05-06,4,Om,om@nujoom.com,False
+1083,84,9322.38,40.476190476190474,3.8,Restaurant 1083,Doha,Italian,2021-11-11,2,Azfan,azfan@nujoom.com,True
+1084,92,10681.17,37.83695652173913,3.805434782608696,Restaurant 1084,Al Rayyan,Qatari,2023-07-24,1,Suhail,suhail@nujoom.com,False
+1085,84,10223.72,40.476190476190474,3.7595238095238095,Restaurant 1085,Umm Salal,Burger,2022-10-03,3,Rahul,rahul@nujoom.com,True
+1086,94,11381.56,39.255319148936174,3.7085106382978728,Restaurant 1086,Doha,Qatari,2021-03-16,9,Lisa,lisa@nujoom.com,False
+1087,92,11487.08,40.81521739130435,3.7119565217391304,Restaurant 1087,Lusail,Indian,2022-09-25,9,Lisa,lisa@nujoom.com,False
+1088,105,11807.01,38.87619047619047,3.7361904761904765,Restaurant 1088,Al Wakrah,Indian,2022-07-06,2,Azfan,azfan@nujoom.com,False
+1089,102,10703.65,41.44117647058823,3.8205882352941174,Restaurant 1089,Al Wakrah,Qatari,2023-01-06,1,Suhail,suhail@nujoom.com,False
+1090,96,11396.06,42.34375,3.6822916666666665,Restaurant 1090,Al Rayyan,Indian,2021-04-18,8,Mariyam,mariyam@nujoom.com,False
+1091,119,13888.83,39.99159663865546,3.811764705882353,Restaurant 1091,Al Rayyan,Qatari,2023-01-20,10,Victoria,victoria@nujoom.com,False
+1092,100,11116.64,39.64,3.832,Restaurant 1092,Doha,Sushi,2021-02-25,7,Priya,priya@nujoom.com,False
+1093,119,13662.74,39.8235294117647,3.753781512605042,Restaurant 1093,Lusail,Sushi,2023-03-06,2,Azfan,azfan@nujoom.com,False
+1094,120,13871.97,40.35,3.654166666666667,Restaurant 1094,Al Rayyan,Italian,2023-07-14,9,Lisa,lisa@nujoom.com,False
+1095,80,8567.29,40.375,3.79,Restaurant 1095,Al Wakrah,Qatari,2021-05-31,4,Om,om@nujoom.com,True
+1096,114,13676.42,42.19298245614035,3.6385964912280704,Restaurant 1096,Doha,Sushi,2021-11-18,5,Akarsh,akarsh@nujoom.com,False
+1097,105,12388.24,39.666666666666664,3.694285714285714,Restaurant 1097,Al Wakrah,Qatari,2021-01-18,4,Om,om@nujoom.com,False
+1098,130,14381.13,40.7,3.7776923076923077,Restaurant 1098,Lusail,Indian,2022-05-21,2,Azfan,azfan@nujoom.com,False
+1099,80,9004.99,37.9125,3.6637500000000003,Restaurant 1099,Lusail,Qatari,2023-03-13,1,Suhail,suhail@nujoom.com,True
+1100,107,11711.3,41.074766355140184,3.642056074766355,Restaurant 1100,Umm Salal,Italian,2022-07-03,9,Lisa,lisa@nujoom.com,False
+1101,117,13470.63,42.136752136752136,3.788034188034188,Restaurant 1101,Doha,Qatari,2023-03-16,9,Lisa,lisa@nujoom.com,False
+1102,86,9840.04,42.04651162790697,3.608139534883721,Restaurant 1102,Al Rayyan,Sushi,2021-11-25,8,Mariyam,mariyam@nujoom.com,True
+1103,90,10648.58,37.91111111111111,3.7511111111111113,Restaurant 1103,Umm Salal,Burger,2021-07-12,7,Priya,priya@nujoom.com,True
+1104,88,9072.28,38.82954545454545,3.7931818181818184,Restaurant 1104,Lusail,Burger,2022-03-26,8,Mariyam,mariyam@nujoom.com,True
+1105,97,10233.55,39.71134020618557,3.748453608247423,Restaurant 1105,Doha,Indian,2021-08-08,10,Victoria,victoria@nujoom.com,False
+1106,129,15533.46,38.58914728682171,3.7844961240310075,Restaurant 1106,Umm Salal,Italian,2022-12-31,3,Rahul,rahul@nujoom.com,False
+1107,86,9657.97,39.395348837209305,3.653488372093023,Restaurant 1107,Lusail,Indian,2023-03-07,8,Mariyam,mariyam@nujoom.com,True
+1108,84,8881.55,38.86904761904762,3.663095238095238,Restaurant 1108,Lusail,Italian,2022-10-11,4,Om,om@nujoom.com,True
+1109,97,11645.56,40.43298969072165,3.825773195876289,Restaurant 1109,Al Wakrah,Indian,2021-09-02,5,Akarsh,akarsh@nujoom.com,False
+1110,127,14508.23,40.08661417322835,3.8818897637795278,Restaurant 1110,Lusail,Indian,2021-11-30,7,Priya,priya@nujoom.com,False
+1111,85,10489.88,40.8,3.6788235294117646,Restaurant 1111,Al Rayyan,Burger,2021-01-05,9,Lisa,lisa@nujoom.com,True
+1112,86,9864.51,39.73255813953488,3.7418604651162792,Restaurant 1112,Al Rayyan,Burger,2023-09-06,9,Lisa,lisa@nujoom.com,True
+1113,84,9137.09,37.23809523809524,3.939285714285714,Restaurant 1113,Umm Salal,Sushi,2023-04-05,3,Rahul,rahul@nujoom.com,True
+1114,103,11088.44,40.37864077669903,3.7135922330097086,Restaurant 1114,Doha,Qatari,2023-07-06,5,Akarsh,akarsh@nujoom.com,False
+1115,107,11619.35,39.74766355140187,3.7214953271028035,Restaurant 1115,Lusail,Burger,2021-07-06,9,Lisa,lisa@nujoom.com,False
+1116,115,13105.8,40.608695652173914,3.8095652173913046,Restaurant 1116,Doha,Indian,2023-02-26,9,Lisa,lisa@nujoom.com,False
+1117,129,14229.47,40.64341085271318,3.7620155038759693,Restaurant 1117,Doha,Sushi,2021-01-13,2,Azfan,azfan@nujoom.com,False
+1118,100,11526.55,39.13,3.759,Restaurant 1118,Al Rayyan,Burger,2022-03-19,10,Victoria,victoria@nujoom.com,False
+1119,112,13097.88,39.75892857142857,3.710714285714286,Restaurant 1119,Umm Salal,Indian,2022-05-04,8,Mariyam,mariyam@nujoom.com,False
+1120,106,12522.37,40.93396226415094,3.8641509433962264,Restaurant 1120,Al Wakrah,Qatari,2023-01-11,7,Priya,priya@nujoom.com,False
+1121,107,12323.06,41.16822429906542,3.779439252336448,Restaurant 1121,Umm Salal,Italian,2023-01-23,1,Suhail,suhail@nujoom.com,False
+1122,117,13632.07,37.888888888888886,3.7487179487179487,Restaurant 1122,Lusail,Qatari,2022-11-28,6,Muhammad,muhammad@nujoom.com,False
+1123,126,14913.12,40.72222222222222,3.795238095238095,Restaurant 1123,Al Rayyan,Burger,2021-06-06,5,Akarsh,akarsh@nujoom.com,False
+1124,117,13618.25,40.863247863247864,3.723931623931624,Restaurant 1124,Al Wakrah,Burger,2023-05-04,5,Akarsh,akarsh@nujoom.com,False
+1125,102,11621.02,40.86274509803921,3.6931372549019605,Restaurant 1125,Doha,Sushi,2021-07-26,1,Suhail,suhail@nujoom.com,False
+1126,93,10212.26,42.69892473118279,3.6741935483870964,Restaurant 1126,Lusail,Burger,2022-11-18,9,Lisa,lisa@nujoom.com,False
+1127,108,12573.39,41.620370370370374,3.759259259259259,Restaurant 1127,Al Wakrah,Indian,2022-07-15,3,Rahul,rahul@nujoom.com,False
+1128,98,11704.289999999999,39.642857142857146,3.8561224489795918,Restaurant 1128,Doha,Burger,2023-03-12,3,Rahul,rahul@nujoom.com,False
+1129,121,13356.57,39.31404958677686,3.6917355371900826,Restaurant 1129,Umm Salal,Burger,2021-05-15,5,Akarsh,akarsh@nujoom.com,False
+1130,83,10234.72,38.74698795180723,3.697590361445783,Restaurant 1130,Al Wakrah,Burger,2023-07-29,10,Victoria,victoria@nujoom.com,True
+1131,83,9897.18,40.44578313253012,3.6710843373493973,Restaurant 1131,Al Wakrah,Qatari,2022-04-10,10,Victoria,victoria@nujoom.com,True
+1132,99,11374.88,39.35353535353536,3.801010101010101,Restaurant 1132,Al Wakrah,Indian,2022-06-26,7,Priya,priya@nujoom.com,False
+1133,99,11629.91,40.686868686868685,3.913131313131313,Restaurant 1133,Al Rayyan,Italian,2021-04-18,3,Rahul,rahul@nujoom.com,False
+1134,130,14796.77,40.6,3.740769230769231,Restaurant 1134,Lusail,Burger,2021-09-18,5,Akarsh,akarsh@nujoom.com,False
+1135,117,13263.49,39.666666666666664,3.6709401709401708,Restaurant 1135,Doha,Qatari,2022-03-02,8,Mariyam,mariyam@nujoom.com,False
+1136,114,12830.98,38.96491228070175,3.7394736842105263,Restaurant 1136,Umm Salal,Indian,2022-09-04,2,Azfan,azfan@nujoom.com,False
+1137,117,12949.74,41.717948717948715,3.7393162393162394,Restaurant 1137,Lusail,Sushi,2022-02-02,4,Om,om@nujoom.com,False
+1138,102,11653.97,40.98039215686274,3.8284313725490198,Restaurant 1138,Al Rayyan,Sushi,2023-03-04,3,Rahul,rahul@nujoom.com,False
+1139,122,15893.49,40.622950819672134,3.8950819672131147,Restaurant 1139,Doha,Qatari,2022-05-16,1,Suhail,suhail@nujoom.com,False
+1140,114,12204.01,39.53508771929825,3.8140350877192986,Restaurant 1140,Lusail,Indian,2022-01-22,6,Muhammad,muhammad@nujoom.com,False
+1141,86,9633.4,40.47674418604651,3.691860465116279,Restaurant 1141,Umm Salal,Qatari,2022-04-26,3,Rahul,rahul@nujoom.com,True
+1142,123,13667.24,39.333333333333336,3.8528455284552843,Restaurant 1142,Lusail,Italian,2021-03-23,2,Azfan,azfan@nujoom.com,False
+1143,130,13622.07,39.5,3.8546153846153848,Restaurant 1143,Umm Salal,Italian,2021-11-02,7,Priya,priya@nujoom.com,False
+1144,103,12018.31,40.640776699029125,3.6310679611650487,Restaurant 1144,Al Rayyan,Burger,2022-08-05,4,Om,om@nujoom.com,False
+1145,88,9846.61,40.38636363636363,3.8863636363636362,Restaurant 1145,Doha,Burger,2022-06-24,2,Azfan,azfan@nujoom.com,True
+1146,126,13047.9,40.69047619047619,3.749206349206349,Restaurant 1146,Lusail,Indian,2021-09-08,6,Muhammad,muhammad@nujoom.com,False
+1147,93,9878.36,40.18279569892473,3.69247311827957,Restaurant 1147,Al Wakrah,Qatari,2022-07-19,10,Victoria,victoria@nujoom.com,False
+1148,118,14432.03,39.11864406779661,3.8372881355932202,Restaurant 1148,Lusail,Sushi,2022-02-11,2,Azfan,azfan@nujoom.com,False
+1149,99,11574.66,38.62626262626262,3.8090909090909095,Restaurant 1149,Doha,Italian,2021-11-11,7,Priya,priya@nujoom.com,False
+1150,81,9571.42,41.54320987654321,3.6246913580246916,Restaurant 1150,Doha,Indian,2023-09-28,2,Azfan,azfan@nujoom.com,True
+1151,118,13296.54,40.46610169491525,3.7381355932203393,Restaurant 1151,Lusail,Indian,2022-07-19,5,Akarsh,akarsh@nujoom.com,False
+1152,95,10329.54,40.43157894736842,3.9157894736842107,Restaurant 1152,Al Rayyan,Indian,2022-07-14,3,Rahul,rahul@nujoom.com,False
+1153,92,10166.81,41.53260869565217,3.7543478260869563,Restaurant 1153,Umm Salal,Sushi,2023-05-19,3,Rahul,rahul@nujoom.com,False
+1154,113,12112.16,39.176991150442475,3.6486725663716815,Restaurant 1154,Al Wakrah,Italian,2023-03-26,3,Rahul,rahul@nujoom.com,False
+1155,119,12877.89,38.26890756302521,3.697478991596639,Restaurant 1155,Lusail,Indian,2022-04-30,7,Priya,priya@nujoom.com,False
+1156,103,12055.99,41.213592233009706,3.749514563106796,Restaurant 1156,Lusail,Indian,2022-06-18,8,Mariyam,mariyam@nujoom.com,False
+1157,91,10261.48,40.285714285714285,3.64945054945055,Restaurant 1157,Al Rayyan,Qatari,2022-12-07,1,Suhail,suhail@nujoom.com,True
+1158,88,10633.19,39.40909090909091,3.623863636363636,Restaurant 1158,Doha,Burger,2023-04-24,2,Azfan,azfan@nujoom.com,True
+1159,99,12043.15,38.22222222222222,3.911111111111111,Restaurant 1159,Al Rayyan,Sushi,2022-10-22,10,Victoria,victoria@nujoom.com,False
+1160,103,11695.9,40.699029126213595,3.6970873786407767,Restaurant 1160,Umm Salal,Burger,2023-09-05,6,Muhammad,muhammad@nujoom.com,False
+1161,114,12385.97,40.21052631578947,3.6789473684210523,Restaurant 1161,Umm Salal,Burger,2022-06-04,6,Muhammad,muhammad@nujoom.com,False
+1162,121,14258.05,39.752066115702476,3.7917355371900827,Restaurant 1162,Umm Salal,Indian,2022-11-28,5,Akarsh,akarsh@nujoom.com,False
+1163,113,12472.77,39.43362831858407,3.680530973451327,Restaurant 1163,Lusail,Qatari,2022-10-22,2,Azfan,azfan@nujoom.com,False
+1164,101,11962.74,40.21782178217822,3.728712871287129,Restaurant 1164,Lusail,Indian,2022-05-09,3,Rahul,rahul@nujoom.com,False
+1165,86,10937.28,39.383720930232556,3.775581395348837,Restaurant 1165,Al Rayyan,Indian,2022-12-25,7,Priya,priya@nujoom.com,True
+1166,80,9091.04,38.075,3.7737499999999997,Restaurant 1166,Al Wakrah,Burger,2023-02-14,5,Akarsh,akarsh@nujoom.com,True
+1167,85,9218.97,38.89411764705882,3.807058823529412,Restaurant 1167,Al Wakrah,Burger,2023-03-06,1,Suhail,suhail@nujoom.com,True
+1168,106,10225.76,40.04716981132076,3.625471698113208,Restaurant 1168,Al Wakrah,Burger,2023-09-27,3,Rahul,rahul@nujoom.com,False
+1169,127,14459.08,39.86614173228347,3.825984251968504,Restaurant 1169,Doha,Sushi,2021-07-20,5,Akarsh,akarsh@nujoom.com,False
+1170,90,10123.89,38.544444444444444,3.811111111111111,Restaurant 1170,Lusail,Italian,2022-06-03,6,Muhammad,muhammad@nujoom.com,True
+1171,91,9435.05,39.91208791208791,3.7373626373626374,Restaurant 1171,Lusail,Italian,2021-03-08,8,Mariyam,mariyam@nujoom.com,True
+1172,105,12276.7,43.857142857142854,3.7152380952380955,Restaurant 1172,Lusail,Sushi,2023-05-15,7,Priya,priya@nujoom.com,False
+1173,129,15205.539999999999,41.72868217054263,3.7852713178294572,Restaurant 1173,Umm Salal,Indian,2021-06-09,3,Rahul,rahul@nujoom.com,False
+1174,97,11864.01,40.31958762886598,3.845360824742268,Restaurant 1174,Al Rayyan,Burger,2022-08-04,1,Suhail,suhail@nujoom.com,False
+1175,88,10405.95,39.61363636363637,3.814772727272727,Restaurant 1175,Al Wakrah,Burger,2021-10-01,7,Priya,priya@nujoom.com,True
+1176,90,10322.81,38.111111111111114,3.7033333333333336,Restaurant 1176,Al Rayyan,Italian,2022-01-20,1,Suhail,suhail@nujoom.com,True
+1177,129,15390.17,38.51162790697674,3.743410852713178,Restaurant 1177,Al Rayyan,Italian,2022-01-12,2,Azfan,azfan@nujoom.com,False
+1178,130,15899.73,40.253846153846155,3.7600000000000002,Restaurant 1178,Umm Salal,Italian,2023-07-09,10,Victoria,victoria@nujoom.com,False
+1179,88,9787.38,39.0,3.6784090909090907,Restaurant 1179,Umm Salal,Qatari,2022-05-18,2,Azfan,azfan@nujoom.com,True
+1180,119,14295.69,41.378151260504204,3.746218487394958,Restaurant 1180,Al Rayyan,Burger,2023-05-29,1,Suhail,suhail@nujoom.com,False
+1181,92,11109.31,38.83695652173913,3.6706521739130435,Restaurant 1181,Doha,Sushi,2022-03-03,4,Om,om@nujoom.com,False
+1182,130,14715.08,41.26923076923077,3.6984615384615385,Restaurant 1182,Al Wakrah,Sushi,2023-08-08,7,Priya,priya@nujoom.com,False
+1183,93,10560.52,37.24731182795699,3.770967741935484,Restaurant 1183,Umm Salal,Burger,2022-11-08,3,Rahul,rahul@nujoom.com,False
+1184,108,12520.57,38.68518518518518,3.7462962962962965,Restaurant 1184,Al Rayyan,Qatari,2021-02-05,1,Suhail,suhail@nujoom.com,False
+1185,129,14596.75,40.52713178294574,3.7666666666666666,Restaurant 1185,Umm Salal,Italian,2022-10-23,3,Rahul,rahul@nujoom.com,False
+1186,96,11349.97,38.739583333333336,3.796875,Restaurant 1186,Al Wakrah,Sushi,2023-04-15,6,Muhammad,muhammad@nujoom.com,False
+1187,91,10289.41,40.527472527472526,3.6945054945054943,Restaurant 1187,Al Rayyan,Italian,2021-05-19,8,Mariyam,mariyam@nujoom.com,True
+1188,99,10918.62,42.42424242424242,3.7535353535353537,Restaurant 1188,Umm Salal,Sushi,2021-10-07,6,Muhammad,muhammad@nujoom.com,False
+1189,90,10253.51,40.644444444444446,3.6033333333333335,Restaurant 1189,Doha,Qatari,2022-08-28,1,Suhail,suhail@nujoom.com,True
+1190,116,13387.13,38.62068965517241,3.781034482758621,Restaurant 1190,Lusail,Burger,2021-04-08,6,Muhammad,muhammad@nujoom.com,False
+1191,112,12231.1,37.705357142857146,3.6669642857142857,Restaurant 1191,Al Rayyan,Italian,2023-09-08,3,Rahul,rahul@nujoom.com,False
+1192,108,11633.15,39.907407407407405,3.6768518518518523,Restaurant 1192,Lusail,Qatari,2021-05-11,5,Akarsh,akarsh@nujoom.com,False
+1193,96,10434.92,39.239583333333336,3.7927083333333336,Restaurant 1193,Doha,Italian,2023-07-07,6,Muhammad,muhammad@nujoom.com,False
+1194,130,14713.17,39.684615384615384,3.7607692307692306,Restaurant 1194,Lusail,Sushi,2021-11-12,5,Akarsh,akarsh@nujoom.com,False
+1195,98,10858.460000000001,40.89795918367347,3.83265306122449,Restaurant 1195,Al Wakrah,Indian,2022-02-23,10,Victoria,victoria@nujoom.com,False
+1196,130,14536.53,39.39230769230769,3.736153846153846,Restaurant 1196,Umm Salal,Qatari,2022-08-03,9,Lisa,lisa@nujoom.com,False
+1197,122,14201.47,38.78688524590164,3.8172131147540984,Restaurant 1197,Al Rayyan,Qatari,2023-09-15,10,Victoria,victoria@nujoom.com,False
+1198,82,10318.12,40.13414634146341,3.7646341463414634,Restaurant 1198,Al Rayyan,Italian,2021-01-23,10,Victoria,victoria@nujoom.com,True
+1199,118,13117.4,41.40677966101695,3.6847457627118647,Restaurant 1199,Doha,Qatari,2021-06-17,7,Priya,priya@nujoom.com,False
+1200,100,11338.49,39.72,3.7710000000000004,Restaurant 1200,Al Rayyan,Burger,2022-01-11,9,Lisa,lisa@nujoom.com,False

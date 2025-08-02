@@ -1,0 +1,201 @@
+restaurant_id,name,city,cuisine_type,onboarding_date,account_manager_id
+1001,Restaurant 1001,Al Rayyan,Sushi,2023-04-14,7
+1002,Restaurant 1002,Lusail,Italian,2021-09-01,4
+1003,Restaurant 1003,Doha,Qatari,2023-07-28,6
+1004,Restaurant 1004,Umm Salal,Italian,2022-02-02,5
+1005,Restaurant 1005,Doha,Qatari,2023-06-05,4
+1006,Restaurant 1006,Lusail,Sushi,2023-02-05,1
+1007,Restaurant 1007,Al Wakrah,Qatari,2023-01-06,5
+1008,Restaurant 1008,Doha,Indian,2023-08-19,6
+1009,Restaurant 1009,Lusail,Qatari,2022-01-27,1
+1010,Restaurant 1010,Al Wakrah,Italian,2023-03-21,6
+1011,Restaurant 1011,Umm Salal,Qatari,2022-07-17,1
+1012,Restaurant 1012,Al Wakrah,Italian,2023-08-13,8
+1013,Restaurant 1013,Al Wakrah,Indian,2023-07-20,1
+1014,Restaurant 1014,Doha,Indian,2021-06-03,2
+1015,Restaurant 1015,Al Wakrah,Burger,2022-11-20,6
+1016,Restaurant 1016,Doha,Burger,2021-10-19,7
+1017,Restaurant 1017,Umm Salal,Italian,2021-02-27,6
+1018,Restaurant 1018,Umm Salal,Burger,2022-01-31,3
+1019,Restaurant 1019,Umm Salal,Italian,2023-08-24,2
+1020,Restaurant 1020,Al Rayyan,Italian,2023-02-23,7
+1021,Restaurant 1021,Lusail,Italian,2023-06-18,8
+1022,Restaurant 1022,Al Wakrah,Burger,2021-08-03,9
+1023,Restaurant 1023,Al Rayyan,Burger,2023-01-27,7
+1024,Restaurant 1024,Umm Salal,Sushi,2022-06-15,7
+1025,Restaurant 1025,Doha,Qatari,2022-10-08,8
+1026,Restaurant 1026,Lusail,Qatari,2021-08-26,1
+1027,Restaurant 1027,Lusail,Burger,2023-04-28,5
+1028,Restaurant 1028,Umm Salal,Qatari,2021-10-20,8
+1029,Restaurant 1029,Al Rayyan,Qatari,2023-01-14,5
+1030,Restaurant 1030,Al Wakrah,Burger,2022-03-21,9
+1031,Restaurant 1031,Lusail,Qatari,2023-09-15,10
+1032,Restaurant 1032,Umm Salal,Burger,2022-03-11,8
+1033,Restaurant 1033,Lusail,Italian,2021-03-09,2
+1034,Restaurant 1034,Al Wakrah,Indian,2021-04-21,5
+1035,Restaurant 1035,Umm Salal,Burger,2022-05-17,6
+1036,Restaurant 1036,Lusail,Burger,2021-10-21,1
+1037,Restaurant 1037,Doha,Burger,2023-08-04,3
+1038,Restaurant 1038,Al Wakrah,Qatari,2022-10-01,2
+1039,Restaurant 1039,Al Wakrah,Italian,2023-05-08,3
+1040,Restaurant 1040,Al Rayyan,Italian,2022-01-05,5
+1041,Restaurant 1041,Al Wakrah,Italian,2021-08-21,4
+1042,Restaurant 1042,Al Rayyan,Qatari,2022-06-22,2
+1043,Restaurant 1043,Umm Salal,Qatari,2023-07-19,4
+1044,Restaurant 1044,Lusail,Burger,2022-03-29,7
+1045,Restaurant 1045,Al Wakrah,Indian,2022-02-18,4
+1046,Restaurant 1046,Al Rayyan,Italian,2022-04-18,3
+1047,Restaurant 1047,Doha,Italian,2022-08-06,6
+1048,Restaurant 1048,Al Wakrah,Indian,2022-06-20,2
+1049,Restaurant 1049,Lusail,Sushi,2023-09-07,9
+1050,Restaurant 1050,Al Rayyan,Italian,2023-09-23,9
+1051,Restaurant 1051,Lusail,Qatari,2023-08-23,2
+1052,Restaurant 1052,Al Wakrah,Italian,2022-09-01,2
+1053,Restaurant 1053,Al Wakrah,Sushi,2022-04-07,1
+1054,Restaurant 1054,Al Rayyan,Qatari,2022-10-08,5
+1055,Restaurant 1055,Lusail,Burger,2022-02-25,1
+1056,Restaurant 1056,Doha,Burger,2021-11-07,4
+1057,Restaurant 1057,Umm Salal,Italian,2021-10-18,10
+1058,Restaurant 1058,Lusail,Burger,2021-08-01,5
+1059,Restaurant 1059,Doha,Italian,2021-08-25,4
+1060,Restaurant 1060,Al Wakrah,Burger,2021-04-01,8
+1061,Restaurant 1061,Al Rayyan,Indian,2022-12-21,1
+1062,Restaurant 1062,Doha,Burger,2021-06-20,5
+1063,Restaurant 1063,Doha,Sushi,2021-11-17,6
+1064,Restaurant 1064,Al Wakrah,Burger,2021-10-10,9
+1065,Restaurant 1065,Umm Salal,Qatari,2022-05-16,3
+1066,Restaurant 1066,Umm Salal,Sushi,2022-11-22,2
+1067,Restaurant 1067,Al Wakrah,Burger,2022-01-19,4
+1068,Restaurant 1068,Umm Salal,Qatari,2022-01-25,2
+1069,Restaurant 1069,Al Rayyan,Sushi,2021-01-19,9
+1070,Restaurant 1070,Doha,Italian,2022-07-19,5
+1071,Restaurant 1071,Al Rayyan,Burger,2021-01-24,5
+1072,Restaurant 1072,Doha,Qatari,2021-01-22,4
+1073,Restaurant 1073,Doha,Italian,2022-04-10,10
+1074,Restaurant 1074,Doha,Indian,2022-09-25,2
+1075,Restaurant 1075,Al Rayyan,Sushi,2021-08-18,8
+1076,Restaurant 1076,Lusail,Indian,2022-11-28,8
+1077,Restaurant 1077,Umm Salal,Sushi,2022-04-27,4
+1078,Restaurant 1078,Al Rayyan,Qatari,2022-02-10,5
+1079,Restaurant 1079,Al Rayyan,Italian,2021-06-23,1
+1080,Restaurant 1080,Al Wakrah,Indian,2021-07-05,5
+1081,Restaurant 1081,Lusail,Qatari,2021-10-18,10
+1082,Restaurant 1082,Lusail,Sushi,2021-05-06,4
+1083,Restaurant 1083,Doha,Italian,2021-11-11,2
+1084,Restaurant 1084,Al Rayyan,Qatari,2023-07-24,1
+1085,Restaurant 1085,Umm Salal,Burger,2022-10-03,3
+1086,Restaurant 1086,Doha,Qatari,2021-03-16,9
+1087,Restaurant 1087,Lusail,Indian,2022-09-25,9
+1088,Restaurant 1088,Al Wakrah,Indian,2022-07-06,2
+1089,Restaurant 1089,Al Wakrah,Qatari,2023-01-06,1
+1090,Restaurant 1090,Al Rayyan,Indian,2021-04-18,8
+1091,Restaurant 1091,Al Rayyan,Qatari,2023-01-20,10
+1092,Restaurant 1092,Doha,Sushi,2021-02-25,7
+1093,Restaurant 1093,Lusail,Sushi,2023-03-06,2
+1094,Restaurant 1094,Al Rayyan,Italian,2023-07-14,9
+1095,Restaurant 1095,Al Wakrah,Qatari,2021-05-31,4
+1096,Restaurant 1096,Doha,Sushi,2021-11-18,5
+1097,Restaurant 1097,Al Wakrah,Qatari,2021-01-18,4
+1098,Restaurant 1098,Lusail,Indian,2022-05-21,2
+1099,Restaurant 1099,Lusail,Qatari,2023-03-13,1
+1100,Restaurant 1100,Umm Salal,Italian,2022-07-03,9
+1101,Restaurant 1101,Doha,Qatari,2023-03-16,9
+1102,Restaurant 1102,Al Rayyan,Sushi,2021-11-25,8
+1103,Restaurant 1103,Umm Salal,Burger,2021-07-12,7
+1104,Restaurant 1104,Lusail,Burger,2022-03-26,8
+1105,Restaurant 1105,Doha,Indian,2021-08-08,10
+1106,Restaurant 1106,Umm Salal,Italian,2022-12-31,3
+1107,Restaurant 1107,Lusail,Indian,2023-03-07,8
+1108,Restaurant 1108,Lusail,Italian,2022-10-11,4
+1109,Restaurant 1109,Al Wakrah,Indian,2021-09-02,5
+1110,Restaurant 1110,Lusail,Indian,2021-11-30,7
+1111,Restaurant 1111,Al Rayyan,Burger,2021-01-05,9
+1112,Restaurant 1112,Al Rayyan,Burger,2023-09-06,9
+1113,Restaurant 1113,Umm Salal,Sushi,2023-04-05,3
+1114,Restaurant 1114,Doha,Qatari,2023-07-06,5
+1115,Restaurant 1115,Lusail,Burger,2021-07-06,9
+1116,Restaurant 1116,Doha,Indian,2023-02-26,9
+1117,Restaurant 1117,Doha,Sushi,2021-01-13,2
+1118,Restaurant 1118,Al Rayyan,Burger,2022-03-19,10
+1119,Restaurant 1119,Umm Salal,Indian,2022-05-04,8
+1120,Restaurant 1120,Al Wakrah,Qatari,2023-01-11,7
+1121,Restaurant 1121,Umm Salal,Italian,2023-01-23,1
+1122,Restaurant 1122,Lusail,Qatari,2022-11-28,6
+1123,Restaurant 1123,Al Rayyan,Burger,2021-06-06,5
+1124,Restaurant 1124,Al Wakrah,Burger,2023-05-04,5
+1125,Restaurant 1125,Doha,Sushi,2021-07-26,1
+1126,Restaurant 1126,Lusail,Burger,2022-11-18,9
+1127,Restaurant 1127,Al Wakrah,Indian,2022-07-15,3
+1128,Restaurant 1128,Doha,Burger,2023-03-12,3
+1129,Restaurant 1129,Umm Salal,Burger,2021-05-15,5
+1130,Restaurant 1130,Al Wakrah,Burger,2023-07-29,10
+1131,Restaurant 1131,Al Wakrah,Qatari,2022-04-10,10
+1132,Restaurant 1132,Al Wakrah,Indian,2022-06-26,7
+1133,Restaurant 1133,Al Rayyan,Italian,2021-04-18,3
+1134,Restaurant 1134,Lusail,Burger,2021-09-18,5
+1135,Restaurant 1135,Doha,Qatari,2022-03-02,8
+1136,Restaurant 1136,Umm Salal,Indian,2022-09-04,2
+1137,Restaurant 1137,Lusail,Sushi,2022-02-02,4
+1138,Restaurant 1138,Al Rayyan,Sushi,2023-03-04,3
+1139,Restaurant 1139,Doha,Qatari,2022-05-16,1
+1140,Restaurant 1140,Lusail,Indian,2022-01-22,6
+1141,Restaurant 1141,Umm Salal,Qatari,2022-04-26,3
+1142,Restaurant 1142,Lusail,Italian,2021-03-23,2
+1143,Restaurant 1143,Umm Salal,Italian,2021-11-02,7
+1144,Restaurant 1144,Al Rayyan,Burger,2022-08-05,4
+1145,Restaurant 1145,Doha,Burger,2022-06-24,2
+1146,Restaurant 1146,Lusail,Indian,2021-09-08,6
+1147,Restaurant 1147,Al Wakrah,Qatari,2022-07-19,10
+1148,Restaurant 1148,Lusail,Sushi,2022-02-11,2
+1149,Restaurant 1149,Doha,Italian,2021-11-11,7
+1150,Restaurant 1150,Doha,Indian,2023-09-28,2
+1151,Restaurant 1151,Lusail,Indian,2022-07-19,5
+1152,Restaurant 1152,Al Rayyan,Indian,2022-07-14,3
+1153,Restaurant 1153,Umm Salal,Sushi,2023-05-19,3
+1154,Restaurant 1154,Al Wakrah,Italian,2023-03-26,3
+1155,Restaurant 1155,Lusail,Indian,2022-04-30,7
+1156,Restaurant 1156,Lusail,Indian,2022-06-18,8
+1157,Restaurant 1157,Al Rayyan,Qatari,2022-12-07,1
+1158,Restaurant 1158,Doha,Burger,2023-04-24,2
+1159,Restaurant 1159,Al Rayyan,Sushi,2022-10-22,10
+1160,Restaurant 1160,Umm Salal,Burger,2023-09-05,6
+1161,Restaurant 1161,Umm Salal,Burger,2022-06-04,6
+1162,Restaurant 1162,Umm Salal,Indian,2022-11-28,5
+1163,Restaurant 1163,Lusail,Qatari,2022-10-22,2
+1164,Restaurant 1164,Lusail,Indian,2022-05-09,3
+1165,Restaurant 1165,Al Rayyan,Indian,2022-12-25,7
+1166,Restaurant 1166,Al Wakrah,Burger,2023-02-14,5
+1167,Restaurant 1167,Al Wakrah,Burger,2023-03-06,1
+1168,Restaurant 1168,Al Wakrah,Burger,2023-09-27,3
+1169,Restaurant 1169,Doha,Sushi,2021-07-20,5
+1170,Restaurant 1170,Lusail,Italian,2022-06-03,6
+1171,Restaurant 1171,Lusail,Italian,2021-03-08,8
+1172,Restaurant 1172,Lusail,Sushi,2023-05-15,7
+1173,Restaurant 1173,Umm Salal,Indian,2021-06-09,3
+1174,Restaurant 1174,Al Rayyan,Burger,2022-08-04,1
+1175,Restaurant 1175,Al Wakrah,Burger,2021-10-01,7
+1176,Restaurant 1176,Al Rayyan,Italian,2022-01-20,1
+1177,Restaurant 1177,Al Rayyan,Italian,2022-01-12,2
+1178,Restaurant 1178,Umm Salal,Italian,2023-07-09,10
+1179,Restaurant 1179,Umm Salal,Qatari,2022-05-18,2
+1180,Restaurant 1180,Al Rayyan,Burger,2023-05-29,1
+1181,Restaurant 1181,Doha,Sushi,2022-03-03,4
+1182,Restaurant 1182,Al Wakrah,Sushi,2023-08-08,7
+1183,Restaurant 1183,Umm Salal,Burger,2022-11-08,3
+1184,Restaurant 1184,Al Rayyan,Qatari,2021-02-05,1
+1185,Restaurant 1185,Umm Salal,Italian,2022-10-23,3
+1186,Restaurant 1186,Al Wakrah,Sushi,2023-04-15,6
+1187,Restaurant 1187,Al Rayyan,Italian,2021-05-19,8
+1188,Restaurant 1188,Umm Salal,Sushi,2021-10-07,6
+1189,Restaurant 1189,Doha,Qatari,2022-08-28,1
+1190,Restaurant 1190,Lusail,Burger,2021-04-08,6
+1191,Restaurant 1191,Al Rayyan,Italian,2023-09-08,3
+1192,Restaurant 1192,Lusail,Qatari,2021-05-11,5
+1193,Restaurant 1193,Doha,Italian,2023-07-07,6
+1194,Restaurant 1194,Lusail,Sushi,2021-11-12,5
+1195,Restaurant 1195,Al Wakrah,Indian,2022-02-23,10
+1196,Restaurant 1196,Umm Salal,Qatari,2022-08-03,9
+1197,Restaurant 1197,Al Rayyan,Qatari,2023-09-15,10
+1198,Restaurant 1198,Al Rayyan,Italian,2021-01-23,10
+1199,Restaurant 1199,Doha,Qatari,2021-06-17,7
+1200,Restaurant 1200,Al Rayyan,Burger,2022-01-11,9

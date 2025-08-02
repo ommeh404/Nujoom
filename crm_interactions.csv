@@ -1,0 +1,1295 @@
+interaction_id,restaurant_id,contact_date,channel,notes
+9001,1001,2024-06-16,Email,Menu update
+9002,1001,2024-05-19,Email,Onboarding support
+9003,1001,2024-03-12,Email,Menu update
+9004,1002,2024-03-11,WhatsApp,Follow-up on performance
+9005,1002,2024-04-15,WhatsApp,Discussed campaign
+9006,1002,2024-02-12,In-person,Follow-up on performance
+9007,1002,2024-04-10,WhatsApp,Onboarding support
+9008,1002,2024-04-07,Phone,Follow-up on performance
+9009,1002,2024-02-07,WhatsApp,Menu update
+9010,1002,2024-02-06,Phone,Onboarding support
+9011,1002,2024-05-20,In-person,Discussed campaign
+9012,1002,2024-05-18,Phone,Follow-up on performance
+9013,1003,2024-03-29,Phone,Discussed campaign
+9014,1003,2024-01-31,Phone,Discussed campaign
+9015,1003,2024-02-07,Email,Onboarding support
+9016,1003,2024-06-23,In-person,Follow-up on performance
+9017,1003,2024-03-13,WhatsApp,Discussed campaign
+9018,1003,2024-05-20,In-person,Follow-up on performance
+9019,1003,2024-01-14,Email,Discussed campaign
+9020,1003,2024-01-26,In-person,Discussed campaign
+9021,1003,2024-02-10,Phone,Follow-up on performance
+9022,1003,2024-02-23,In-person,Follow-up on performance
+9023,1004,2024-01-25,Phone,Menu update
+9024,1004,2024-05-17,Phone,Menu update
+9025,1004,2024-04-24,Email,Discussed campaign
+9026,1004,2024-05-16,WhatsApp,Discussed campaign
+9027,1004,2024-01-05,In-person,Follow-up on performance
+9028,1004,2024-03-28,Email,Menu update
+9029,1004,2024-05-05,WhatsApp,Onboarding support
+9030,1004,2024-03-08,Phone,Menu update
+9031,1004,2024-05-28,In-person,Follow-up on performance
+9032,1005,2024-06-05,Phone,Discussed campaign
+9033,1005,2024-02-24,WhatsApp,Follow-up on performance
+9034,1005,2024-03-24,WhatsApp,Onboarding support
+9035,1005,2024-05-17,In-person,Discussed campaign
+9036,1005,2024-06-14,WhatsApp,Discussed campaign
+9037,1005,2024-01-02,Phone,Menu update
+9038,1005,2024-05-10,Email,Menu update
+9039,1005,2024-04-10,Phone,Menu update
+9040,1005,2024-05-22,Phone,Follow-up on performance
+9041,1006,2024-05-11,In-person,Follow-up on performance
+9042,1006,2024-01-27,WhatsApp,Menu update
+9043,1006,2024-04-25,Email,Menu update
+9044,1006,2024-02-12,Email,Onboarding support
+9045,1006,2024-02-19,WhatsApp,Discussed campaign
+9046,1006,2024-01-24,Email,Follow-up on performance
+9047,1006,2024-02-12,Phone,Onboarding support
+9048,1007,2024-04-30,WhatsApp,Follow-up on performance
+9049,1007,2024-02-16,In-person,Follow-up on performance
+9050,1007,2024-04-10,WhatsApp,Follow-up on performance
+9051,1007,2024-06-14,In-person,Discussed campaign
+9052,1007,2024-04-27,WhatsApp,Discussed campaign
+9053,1007,2024-05-08,Email,Menu update
+9054,1007,2024-02-10,Email,Menu update
+9055,1008,2024-02-13,Phone,Discussed campaign
+9056,1008,2024-05-26,WhatsApp,Menu update
+9057,1008,2024-05-31,Email,Onboarding support
+9058,1008,2024-04-10,Phone,Menu update
+9059,1008,2024-03-20,Phone,Follow-up on performance
+9060,1008,2024-03-26,In-person,Menu update
+9061,1008,2024-02-18,In-person,Follow-up on performance
+9062,1008,2024-04-08,WhatsApp,Menu update
+9063,1009,2024-04-20,WhatsApp,Discussed campaign
+9064,1009,2024-02-21,Email,Follow-up on performance
+9065,1009,2024-01-22,In-person,Discussed campaign
+9066,1009,2024-01-27,WhatsApp,Follow-up on performance
+9067,1009,2024-01-16,Phone,Onboarding support
+9068,1009,2024-04-30,Email,Onboarding support
+9069,1009,2024-03-14,In-person,Follow-up on performance
+9070,1010,2024-05-01,Phone,Menu update
+9071,1010,2024-02-07,Phone,Menu update
+9072,1010,2024-03-15,In-person,Discussed campaign
+9073,1010,2024-02-17,In-person,Follow-up on performance
+9074,1011,2024-05-22,WhatsApp,Menu update
+9075,1011,2024-03-02,In-person,Discussed campaign
+9076,1011,2024-05-19,Phone,Discussed campaign
+9077,1012,2024-01-19,Phone,Follow-up on performance
+9078,1012,2024-04-11,In-person,Discussed campaign
+9079,1012,2024-04-04,WhatsApp,Menu update
+9080,1012,2024-04-15,WhatsApp,Discussed campaign
+9081,1012,2024-05-11,Phone,Onboarding support
+9082,1012,2024-05-21,Phone,Follow-up on performance
+9083,1012,2024-02-16,Phone,Follow-up on performance
+9084,1012,2024-02-23,WhatsApp,Menu update
+9085,1012,2024-05-31,Email,Menu update
+9086,1012,2024-04-11,In-person,Follow-up on performance
+9087,1013,2024-06-22,In-person,Discussed campaign
+9088,1013,2024-01-02,Email,Discussed campaign
+9089,1013,2024-02-09,In-person,Menu update
+9090,1013,2024-04-16,Email,Discussed campaign
+9091,1013,2024-04-03,WhatsApp,Follow-up on performance
+9092,1013,2024-05-19,In-person,Menu update
+9093,1014,2024-01-24,Email,Discussed campaign
+9094,1014,2024-05-30,WhatsApp,Discussed campaign
+9095,1014,2024-02-03,Email,Menu update
+9096,1014,2024-01-01,In-person,Onboarding support
+9097,1014,2024-02-25,In-person,Onboarding support
+9098,1014,2024-02-05,Email,Discussed campaign
+9099,1014,2024-04-30,In-person,Onboarding support
+9100,1015,2024-05-30,Email,Follow-up on performance
+9101,1015,2024-03-08,Phone,Onboarding support
+9102,1015,2024-02-12,Phone,Follow-up on performance
+9103,1016,2024-06-27,WhatsApp,Menu update
+9104,1016,2024-05-11,Email,Onboarding support
+9105,1016,2024-06-11,Phone,Menu update
+9106,1017,2024-06-11,Email,Onboarding support
+9107,1017,2024-02-07,Phone,Discussed campaign
+9108,1017,2024-04-16,Email,Onboarding support
+9109,1017,2024-04-12,In-person,Discussed campaign
+9110,1017,2024-01-30,Email,Follow-up on performance
+9111,1017,2024-03-10,WhatsApp,Discussed campaign
+9112,1017,2024-05-19,Phone,Onboarding support
+9113,1017,2024-04-29,Phone,Menu update
+9114,1017,2024-04-30,In-person,Discussed campaign
+9115,1018,2024-04-02,WhatsApp,Discussed campaign
+9116,1018,2024-06-06,In-person,Onboarding support
+9117,1018,2024-02-27,In-person,Follow-up on performance
+9118,1018,2024-05-01,Email,Onboarding support
+9119,1018,2024-01-12,Email,Onboarding support
+9120,1018,2024-04-05,Phone,Menu update
+9121,1018,2024-06-02,Phone,Menu update
+9122,1018,2024-01-16,Email,Menu update
+9123,1019,2024-05-22,Email,Menu update
+9124,1019,2024-01-23,In-person,Follow-up on performance
+9125,1019,2024-04-26,In-person,Onboarding support
+9126,1019,2024-01-16,Email,Follow-up on performance
+9127,1019,2024-01-29,In-person,Follow-up on performance
+9128,1019,2024-04-01,Phone,Menu update
+9129,1019,2024-06-08,WhatsApp,Follow-up on performance
+9130,1019,2024-04-27,Email,Discussed campaign
+9131,1019,2024-01-11,Email,Onboarding support
+9132,1019,2024-05-04,WhatsApp,Discussed campaign
+9133,1020,2024-06-18,Phone,Discussed campaign
+9134,1020,2024-06-28,In-person,Follow-up on performance
+9135,1020,2024-05-01,In-person,Follow-up on performance
+9136,1020,2024-05-08,WhatsApp,Menu update
+9137,1020,2024-05-24,Phone,Discussed campaign
+9138,1021,2024-06-13,Phone,Follow-up on performance
+9139,1021,2024-01-13,WhatsApp,Onboarding support
+9140,1021,2024-03-07,WhatsApp,Onboarding support
+9141,1021,2024-05-12,Email,Discussed campaign
+9142,1021,2024-02-09,WhatsApp,Discussed campaign
+9143,1021,2024-05-09,WhatsApp,Follow-up on performance
+9144,1021,2024-06-21,In-person,Discussed campaign
+9145,1022,2024-06-22,WhatsApp,Discussed campaign
+9146,1022,2024-03-28,Email,Discussed campaign
+9147,1022,2024-04-14,WhatsApp,Discussed campaign
+9148,1022,2024-03-15,WhatsApp,Menu update
+9149,1022,2024-01-09,Email,Onboarding support
+9150,1022,2024-05-08,Email,Follow-up on performance
+9151,1023,2024-02-16,WhatsApp,Onboarding support
+9152,1023,2024-03-22,In-person,Follow-up on performance
+9153,1023,2024-03-01,WhatsApp,Onboarding support
+9154,1024,2024-02-19,Phone,Menu update
+9155,1024,2024-04-19,Email,Follow-up on performance
+9156,1024,2024-03-10,In-person,Onboarding support
+9157,1024,2024-05-17,Email,Follow-up on performance
+9158,1024,2024-04-08,In-person,Follow-up on performance
+9159,1024,2024-02-02,In-person,Discussed campaign
+9160,1024,2024-01-04,Email,Follow-up on performance
+9161,1024,2024-02-09,In-person,Menu update
+9162,1024,2024-04-03,Phone,Discussed campaign
+9163,1024,2024-01-27,Email,Follow-up on performance
+9164,1025,2024-03-10,In-person,Menu update
+9165,1025,2024-02-26,Phone,Onboarding support
+9166,1025,2024-04-24,Email,Follow-up on performance
+9167,1025,2024-03-27,WhatsApp,Onboarding support
+9168,1025,2024-01-31,Phone,Follow-up on performance
+9169,1026,2024-03-03,Phone,Menu update
+9170,1026,2024-06-22,WhatsApp,Discussed campaign
+9171,1026,2024-01-11,WhatsApp,Onboarding support
+9172,1026,2024-06-14,Email,Follow-up on performance
+9173,1026,2024-05-22,WhatsApp,Discussed campaign
+9174,1027,2024-03-19,WhatsApp,Discussed campaign
+9175,1027,2024-01-04,WhatsApp,Discussed campaign
+9176,1027,2024-05-05,Phone,Onboarding support
+9177,1028,2024-02-05,Phone,Menu update
+9178,1028,2024-01-31,Email,Discussed campaign
+9179,1028,2024-02-27,Phone,Discussed campaign
+9180,1028,2024-05-05,WhatsApp,Discussed campaign
+9181,1028,2024-02-03,Email,Menu update
+9182,1028,2024-03-22,WhatsApp,Follow-up on performance
+9183,1029,2024-02-02,In-person,Discussed campaign
+9184,1029,2024-02-19,WhatsApp,Follow-up on performance
+9185,1029,2024-05-24,WhatsApp,Follow-up on performance
+9186,1029,2024-03-27,Phone,Follow-up on performance
+9187,1029,2024-05-11,WhatsApp,Follow-up on performance
+9188,1029,2024-01-08,Phone,Onboarding support
+9189,1029,2024-01-21,Email,Discussed campaign
+9190,1029,2024-04-03,Phone,Follow-up on performance
+9191,1029,2024-03-26,WhatsApp,Menu update
+9192,1029,2024-01-02,WhatsApp,Discussed campaign
+9193,1030,2024-01-27,Email,Follow-up on performance
+9194,1030,2024-04-02,Phone,Menu update
+9195,1030,2024-03-26,In-person,Discussed campaign
+9196,1031,2024-04-02,Phone,Menu update
+9197,1031,2024-05-03,In-person,Menu update
+9198,1031,2024-06-21,WhatsApp,Onboarding support
+9199,1031,2024-03-12,In-person,Follow-up on performance
+9200,1031,2024-04-11,Phone,Follow-up on performance
+9201,1031,2024-05-28,Phone,Menu update
+9202,1032,2024-01-06,Phone,Menu update
+9203,1032,2024-04-22,Email,Menu update
+9204,1032,2024-02-15,Phone,Discussed campaign
+9205,1033,2024-05-02,WhatsApp,Menu update
+9206,1033,2024-05-29,Email,Onboarding support
+9207,1033,2024-05-22,Email,Onboarding support
+9208,1033,2024-01-27,Phone,Onboarding support
+9209,1033,2024-02-28,WhatsApp,Discussed campaign
+9210,1033,2024-03-13,Email,Onboarding support
+9211,1033,2024-06-05,In-person,Menu update
+9212,1033,2024-02-20,Phone,Follow-up on performance
+9213,1034,2024-04-28,In-person,Discussed campaign
+9214,1034,2024-05-10,Email,Onboarding support
+9215,1034,2024-06-16,Phone,Follow-up on performance
+9216,1034,2024-03-28,Email,Menu update
+9217,1034,2024-04-09,Phone,Menu update
+9218,1035,2024-04-03,In-person,Onboarding support
+9219,1035,2024-04-06,Email,Menu update
+9220,1035,2024-06-17,Email,Menu update
+9221,1035,2024-04-26,Phone,Follow-up on performance
+9222,1035,2024-03-10,Email,Onboarding support
+9223,1035,2024-01-10,WhatsApp,Onboarding support
+9224,1035,2024-03-26,Phone,Follow-up on performance
+9225,1035,2024-04-19,Email,Onboarding support
+9226,1036,2024-04-03,Email,Menu update
+9227,1036,2024-06-18,WhatsApp,Onboarding support
+9228,1036,2024-02-23,WhatsApp,Discussed campaign
+9229,1036,2024-01-20,WhatsApp,Discussed campaign
+9230,1036,2024-02-15,In-person,Menu update
+9231,1036,2024-06-01,WhatsApp,Discussed campaign
+9232,1036,2024-04-22,Phone,Follow-up on performance
+9233,1036,2024-04-06,WhatsApp,Onboarding support
+9234,1037,2024-02-11,In-person,Menu update
+9235,1037,2024-01-24,Phone,Follow-up on performance
+9236,1037,2024-01-22,Phone,Follow-up on performance
+9237,1037,2024-01-16,Email,Follow-up on performance
+9238,1037,2024-05-15,In-person,Follow-up on performance
+9239,1037,2024-02-29,Email,Menu update
+9240,1037,2024-01-25,In-person,Onboarding support
+9241,1037,2024-04-12,Email,Follow-up on performance
+9242,1037,2024-05-18,In-person,Menu update
+9243,1037,2024-04-01,In-person,Discussed campaign
+9244,1038,2024-04-30,Email,Onboarding support
+9245,1038,2024-03-20,In-person,Menu update
+9246,1038,2024-03-02,Phone,Menu update
+9247,1038,2024-01-18,WhatsApp,Follow-up on performance
+9248,1039,2024-04-25,In-person,Follow-up on performance
+9249,1039,2024-03-06,WhatsApp,Discussed campaign
+9250,1039,2024-01-24,Phone,Follow-up on performance
+9251,1039,2024-03-27,Email,Menu update
+9252,1039,2024-05-27,Phone,Menu update
+9253,1039,2024-04-01,Email,Onboarding support
+9254,1039,2024-03-21,Email,Discussed campaign
+9255,1040,2024-05-14,Phone,Menu update
+9256,1040,2024-02-26,WhatsApp,Onboarding support
+9257,1040,2024-03-23,Email,Discussed campaign
+9258,1040,2024-05-20,WhatsApp,Menu update
+9259,1040,2024-03-23,WhatsApp,Follow-up on performance
+9260,1040,2024-06-20,Phone,Onboarding support
+9261,1040,2024-04-13,In-person,Discussed campaign
+9262,1041,2024-04-27,Email,Onboarding support
+9263,1041,2024-03-01,Email,Onboarding support
+9264,1041,2024-05-24,Phone,Menu update
+9265,1041,2024-01-01,In-person,Onboarding support
+9266,1042,2024-01-13,WhatsApp,Discussed campaign
+9267,1042,2024-03-24,Phone,Discussed campaign
+9268,1042,2024-02-16,Email,Discussed campaign
+9269,1043,2024-04-09,Email,Onboarding support
+9270,1043,2024-01-02,Phone,Discussed campaign
+9271,1043,2024-03-30,Email,Discussed campaign
+9272,1043,2024-05-25,In-person,Follow-up on performance
+9273,1043,2024-04-15,In-person,Onboarding support
+9274,1043,2024-04-27,WhatsApp,Discussed campaign
+9275,1044,2024-01-16,In-person,Discussed campaign
+9276,1044,2024-03-30,In-person,Onboarding support
+9277,1044,2024-02-21,In-person,Follow-up on performance
+9278,1044,2024-05-22,Phone,Discussed campaign
+9279,1044,2024-05-08,Email,Follow-up on performance
+9280,1044,2024-05-06,Email,Onboarding support
+9281,1044,2024-03-19,Phone,Onboarding support
+9282,1044,2024-01-12,Phone,Menu update
+9283,1045,2024-02-16,WhatsApp,Menu update
+9284,1045,2024-01-30,In-person,Discussed campaign
+9285,1045,2024-03-17,Phone,Discussed campaign
+9286,1045,2024-02-05,Phone,Follow-up on performance
+9287,1045,2024-03-02,In-person,Follow-up on performance
+9288,1045,2024-02-14,In-person,Follow-up on performance
+9289,1046,2024-04-05,In-person,Follow-up on performance
+9290,1046,2024-03-16,In-person,Onboarding support
+9291,1046,2024-04-11,Phone,Onboarding support
+9292,1046,2024-03-02,In-person,Follow-up on performance
+9293,1047,2024-01-06,Phone,Discussed campaign
+9294,1047,2024-02-03,In-person,Follow-up on performance
+9295,1047,2024-04-05,Phone,Menu update
+9296,1047,2024-03-28,WhatsApp,Discussed campaign
+9297,1047,2024-01-05,In-person,Menu update
+9298,1047,2024-03-25,Email,Follow-up on performance
+9299,1047,2024-03-07,Email,Follow-up on performance
+9300,1048,2024-06-24,Email,Follow-up on performance
+9301,1048,2024-02-03,Phone,Onboarding support
+9302,1048,2024-05-19,WhatsApp,Onboarding support
+9303,1048,2024-06-25,In-person,Menu update
+9304,1048,2024-04-15,Email,Onboarding support
+9305,1048,2024-05-10,Email,Discussed campaign
+9306,1048,2024-06-14,WhatsApp,Menu update
+9307,1048,2024-01-17,Phone,Onboarding support
+9308,1048,2024-05-16,WhatsApp,Follow-up on performance
+9309,1049,2024-02-21,WhatsApp,Discussed campaign
+9310,1049,2024-04-30,In-person,Follow-up on performance
+9311,1049,2024-05-30,Email,Follow-up on performance
+9312,1049,2024-02-14,In-person,Discussed campaign
+9313,1049,2024-01-12,Phone,Menu update
+9314,1049,2024-05-20,Phone,Discussed campaign
+9315,1049,2024-01-28,Email,Onboarding support
+9316,1049,2024-04-11,Email,Menu update
+9317,1049,2024-04-02,WhatsApp,Onboarding support
+9318,1049,2024-03-02,Phone,Follow-up on performance
+9319,1050,2024-01-02,WhatsApp,Menu update
+9320,1050,2024-06-02,Email,Discussed campaign
+9321,1050,2024-06-01,In-person,Discussed campaign
+9322,1050,2024-02-08,WhatsApp,Menu update
+9323,1050,2024-03-28,In-person,Discussed campaign
+9324,1050,2024-05-21,WhatsApp,Menu update
+9325,1050,2024-05-04,In-person,Menu update
+9326,1051,2024-02-06,Phone,Menu update
+9327,1051,2024-04-29,Phone,Onboarding support
+9328,1051,2024-02-08,WhatsApp,Discussed campaign
+9329,1051,2024-04-08,WhatsApp,Menu update
+9330,1051,2024-06-15,WhatsApp,Menu update
+9331,1051,2024-04-04,Email,Onboarding support
+9332,1051,2024-01-05,WhatsApp,Onboarding support
+9333,1051,2024-05-05,In-person,Onboarding support
+9334,1051,2024-01-17,Phone,Discussed campaign
+9335,1052,2024-04-03,In-person,Menu update
+9336,1052,2024-05-15,In-person,Menu update
+9337,1052,2024-04-05,In-person,Onboarding support
+9338,1052,2024-06-18,Email,Follow-up on performance
+9339,1052,2024-03-04,WhatsApp,Onboarding support
+9340,1052,2024-03-23,Phone,Menu update
+9341,1052,2024-03-28,Email,Follow-up on performance
+9342,1052,2024-05-13,Email,Menu update
+9343,1052,2024-03-15,Phone,Onboarding support
+9344,1052,2024-06-02,In-person,Onboarding support
+9345,1053,2024-01-04,In-person,Onboarding support
+9346,1053,2024-02-02,WhatsApp,Discussed campaign
+9347,1053,2024-05-07,In-person,Follow-up on performance
+9348,1053,2024-02-22,WhatsApp,Onboarding support
+9349,1053,2024-01-22,Phone,Follow-up on performance
+9350,1053,2024-06-14,Phone,Discussed campaign
+9351,1054,2024-06-04,Email,Onboarding support
+9352,1054,2024-03-27,Email,Follow-up on performance
+9353,1054,2024-02-25,Phone,Follow-up on performance
+9354,1054,2024-06-11,In-person,Follow-up on performance
+9355,1054,2024-03-24,In-person,Discussed campaign
+9356,1054,2024-01-25,In-person,Onboarding support
+9357,1055,2024-03-13,In-person,Follow-up on performance
+9358,1055,2024-03-31,Email,Follow-up on performance
+9359,1055,2024-03-31,Email,Follow-up on performance
+9360,1055,2024-06-01,Email,Onboarding support
+9361,1056,2024-04-14,In-person,Menu update
+9362,1056,2024-04-04,WhatsApp,Follow-up on performance
+9363,1056,2024-02-12,Phone,Onboarding support
+9364,1056,2024-01-01,Phone,Follow-up on performance
+9365,1056,2024-05-20,Phone,Onboarding support
+9366,1056,2024-06-25,Email,Follow-up on performance
+9367,1056,2024-03-05,Email,Follow-up on performance
+9368,1056,2024-05-17,In-person,Menu update
+9369,1056,2024-02-06,WhatsApp,Discussed campaign
+9370,1056,2024-05-08,Phone,Discussed campaign
+9371,1057,2024-04-19,WhatsApp,Discussed campaign
+9372,1057,2024-04-05,Phone,Follow-up on performance
+9373,1057,2024-04-20,Email,Follow-up on performance
+9374,1057,2024-01-03,Email,Discussed campaign
+9375,1057,2024-03-06,WhatsApp,Follow-up on performance
+9376,1057,2024-01-05,WhatsApp,Onboarding support
+9377,1058,2024-01-30,Email,Discussed campaign
+9378,1058,2024-04-10,WhatsApp,Discussed campaign
+9379,1058,2024-05-09,Phone,Onboarding support
+9380,1058,2024-01-07,Phone,Onboarding support
+9381,1059,2024-04-29,In-person,Menu update
+9382,1059,2024-02-05,In-person,Menu update
+9383,1059,2024-01-26,Email,Follow-up on performance
+9384,1059,2024-04-12,In-person,Follow-up on performance
+9385,1060,2024-01-22,Email,Discussed campaign
+9386,1060,2024-06-15,In-person,Onboarding support
+9387,1060,2024-05-02,Email,Menu update
+9388,1060,2024-02-24,In-person,Onboarding support
+9389,1060,2024-05-26,WhatsApp,Discussed campaign
+9390,1060,2024-02-25,Email,Menu update
+9391,1060,2024-06-14,Email,Onboarding support
+9392,1060,2024-06-20,Phone,Discussed campaign
+9393,1060,2024-01-27,Phone,Follow-up on performance
+9394,1061,2024-03-21,In-person,Follow-up on performance
+9395,1061,2024-03-10,WhatsApp,Menu update
+9396,1061,2024-03-15,Phone,Onboarding support
+9397,1061,2024-04-10,Email,Menu update
+9398,1061,2024-03-18,WhatsApp,Menu update
+9399,1061,2024-03-15,Email,Menu update
+9400,1061,2024-05-11,Email,Onboarding support
+9401,1061,2024-02-19,WhatsApp,Onboarding support
+9402,1062,2024-04-10,WhatsApp,Menu update
+9403,1062,2024-04-04,Email,Menu update
+9404,1062,2024-06-28,WhatsApp,Follow-up on performance
+9405,1062,2024-01-17,Phone,Follow-up on performance
+9406,1062,2024-05-07,Phone,Menu update
+9407,1062,2024-05-23,Phone,Menu update
+9408,1063,2024-03-14,In-person,Onboarding support
+9409,1063,2024-03-16,WhatsApp,Discussed campaign
+9410,1063,2024-01-09,WhatsApp,Onboarding support
+9411,1063,2024-01-20,Email,Discussed campaign
+9412,1063,2024-01-05,WhatsApp,Onboarding support
+9413,1064,2024-06-02,Phone,Menu update
+9414,1064,2024-03-05,Email,Onboarding support
+9415,1064,2024-01-19,WhatsApp,Menu update
+9416,1064,2024-02-09,In-person,Discussed campaign
+9417,1064,2024-05-14,Email,Menu update
+9418,1064,2024-03-12,In-person,Discussed campaign
+9419,1064,2024-01-18,WhatsApp,Follow-up on performance
+9420,1064,2024-03-01,Phone,Onboarding support
+9421,1065,2024-02-19,Email,Menu update
+9422,1065,2024-01-10,Phone,Follow-up on performance
+9423,1065,2024-02-08,WhatsApp,Onboarding support
+9424,1065,2024-04-18,WhatsApp,Menu update
+9425,1065,2024-03-03,In-person,Follow-up on performance
+9426,1065,2024-01-09,In-person,Onboarding support
+9427,1065,2024-06-22,Email,Follow-up on performance
+9428,1065,2024-06-07,WhatsApp,Onboarding support
+9429,1065,2024-04-13,Email,Discussed campaign
+9430,1065,2024-06-23,In-person,Discussed campaign
+9431,1066,2024-03-12,WhatsApp,Menu update
+9432,1066,2024-03-22,Phone,Onboarding support
+9433,1066,2024-05-13,Email,Onboarding support
+9434,1066,2024-01-22,WhatsApp,Menu update
+9435,1066,2024-06-19,WhatsApp,Follow-up on performance
+9436,1066,2024-04-14,WhatsApp,Onboarding support
+9437,1066,2024-06-15,Phone,Follow-up on performance
+9438,1067,2024-05-26,WhatsApp,Menu update
+9439,1067,2024-04-13,Email,Discussed campaign
+9440,1067,2024-02-02,Email,Follow-up on performance
+9441,1067,2024-01-29,WhatsApp,Discussed campaign
+9442,1067,2024-02-26,Email,Onboarding support
+9443,1067,2024-05-12,Email,Follow-up on performance
+9444,1067,2024-01-14,In-person,Onboarding support
+9445,1067,2024-05-18,WhatsApp,Onboarding support
+9446,1068,2024-02-16,WhatsApp,Discussed campaign
+9447,1068,2024-01-06,In-person,Follow-up on performance
+9448,1068,2024-06-10,WhatsApp,Onboarding support
+9449,1068,2024-06-04,WhatsApp,Menu update
+9450,1069,2024-03-29,Email,Follow-up on performance
+9451,1069,2024-01-29,Phone,Follow-up on performance
+9452,1069,2024-03-13,Email,Discussed campaign
+9453,1069,2024-02-15,In-person,Menu update
+9454,1069,2024-05-23,In-person,Follow-up on performance
+9455,1070,2024-04-26,Phone,Follow-up on performance
+9456,1070,2024-04-09,In-person,Menu update
+9457,1070,2024-06-25,Email,Menu update
+9458,1070,2024-04-03,WhatsApp,Onboarding support
+9459,1071,2024-03-23,WhatsApp,Menu update
+9460,1071,2024-03-12,In-person,Onboarding support
+9461,1071,2024-01-01,In-person,Follow-up on performance
+9462,1071,2024-05-03,Phone,Discussed campaign
+9463,1071,2024-05-28,WhatsApp,Discussed campaign
+9464,1071,2024-04-26,In-person,Menu update
+9465,1071,2024-03-10,Phone,Follow-up on performance
+9466,1072,2024-01-04,WhatsApp,Menu update
+9467,1072,2024-06-15,WhatsApp,Follow-up on performance
+9468,1072,2024-03-07,WhatsApp,Menu update
+9469,1072,2024-06-23,Phone,Follow-up on performance
+9470,1072,2024-03-15,Email,Follow-up on performance
+9471,1072,2024-02-21,Email,Discussed campaign
+9472,1073,2024-03-01,Email,Menu update
+9473,1073,2024-06-21,Phone,Discussed campaign
+9474,1073,2024-04-18,Email,Discussed campaign
+9475,1074,2024-04-23,WhatsApp,Discussed campaign
+9476,1074,2024-05-19,WhatsApp,Onboarding support
+9477,1074,2024-04-14,Phone,Menu update
+9478,1074,2024-02-25,WhatsApp,Menu update
+9479,1074,2024-02-11,Phone,Discussed campaign
+9480,1075,2024-04-09,WhatsApp,Discussed campaign
+9481,1075,2024-01-28,Email,Menu update
+9482,1075,2024-02-21,Phone,Discussed campaign
+9483,1075,2024-05-14,WhatsApp,Onboarding support
+9484,1076,2024-05-27,Email,Menu update
+9485,1076,2024-01-21,Email,Onboarding support
+9486,1076,2024-06-25,Email,Menu update
+9487,1076,2024-03-26,In-person,Menu update
+9488,1076,2024-02-15,Email,Menu update
+9489,1076,2024-02-25,In-person,Menu update
+9490,1077,2024-05-15,Email,Follow-up on performance
+9491,1077,2024-04-02,In-person,Menu update
+9492,1077,2024-01-08,WhatsApp,Onboarding support
+9493,1077,2024-03-05,Email,Discussed campaign
+9494,1077,2024-04-03,WhatsApp,Follow-up on performance
+9495,1077,2024-01-17,WhatsApp,Onboarding support
+9496,1077,2024-01-06,Email,Discussed campaign
+9497,1078,2024-01-10,In-person,Discussed campaign
+9498,1078,2024-06-09,Phone,Discussed campaign
+9499,1078,2024-03-03,Phone,Menu update
+9500,1078,2024-03-31,Phone,Menu update
+9501,1078,2024-01-20,Email,Follow-up on performance
+9502,1078,2024-06-23,Email,Menu update
+9503,1078,2024-03-17,WhatsApp,Menu update
+9504,1078,2024-01-18,Phone,Onboarding support
+9505,1079,2024-01-14,Phone,Menu update
+9506,1079,2024-05-14,Email,Onboarding support
+9507,1079,2024-03-30,In-person,Menu update
+9508,1079,2024-04-13,Phone,Menu update
+9509,1079,2024-01-14,Phone,Menu update
+9510,1079,2024-02-09,Email,Discussed campaign
+9511,1079,2024-06-13,WhatsApp,Menu update
+9512,1079,2024-02-23,Email,Menu update
+9513,1080,2024-03-09,In-person,Discussed campaign
+9514,1080,2024-04-03,Phone,Follow-up on performance
+9515,1080,2024-05-05,WhatsApp,Onboarding support
+9516,1081,2024-01-26,Email,Discussed campaign
+9517,1081,2024-06-04,In-person,Discussed campaign
+9518,1081,2024-05-09,WhatsApp,Follow-up on performance
+9519,1081,2024-05-21,WhatsApp,Onboarding support
+9520,1081,2024-02-17,Phone,Onboarding support
+9521,1081,2024-02-09,In-person,Onboarding support
+9522,1082,2024-01-15,In-person,Follow-up on performance
+9523,1082,2024-02-02,Email,Menu update
+9524,1082,2024-02-13,WhatsApp,Menu update
+9525,1082,2024-03-02,Email,Menu update
+9526,1082,2024-01-22,In-person,Onboarding support
+9527,1083,2024-06-22,Phone,Follow-up on performance
+9528,1083,2024-02-03,WhatsApp,Onboarding support
+9529,1083,2024-01-01,Email,Onboarding support
+9530,1084,2024-04-30,WhatsApp,Follow-up on performance
+9531,1084,2024-01-16,WhatsApp,Follow-up on performance
+9532,1084,2024-04-10,In-person,Menu update
+9533,1084,2024-02-01,Phone,Onboarding support
+9534,1084,2024-06-26,WhatsApp,Menu update
+9535,1084,2024-01-19,Email,Follow-up on performance
+9536,1084,2024-02-18,Phone,Discussed campaign
+9537,1085,2024-06-05,Email,Discussed campaign
+9538,1085,2024-03-05,In-person,Discussed campaign
+9539,1085,2024-05-17,WhatsApp,Menu update
+9540,1085,2024-03-29,WhatsApp,Follow-up on performance
+9541,1085,2024-01-30,Email,Follow-up on performance
+9542,1085,2024-03-07,Phone,Menu update
+9543,1085,2024-05-24,Phone,Onboarding support
+9544,1085,2024-06-24,Email,Onboarding support
+9545,1085,2024-02-09,WhatsApp,Onboarding support
+9546,1085,2024-02-16,Email,Onboarding support
+9547,1086,2024-04-09,WhatsApp,Discussed campaign
+9548,1086,2024-01-06,In-person,Menu update
+9549,1086,2024-02-12,Email,Onboarding support
+9550,1086,2024-01-13,Phone,Follow-up on performance
+9551,1086,2024-04-04,WhatsApp,Menu update
+9552,1086,2024-06-15,In-person,Discussed campaign
+9553,1086,2024-02-17,WhatsApp,Menu update
+9554,1086,2024-05-15,Email,Onboarding support
+9555,1086,2024-01-24,Phone,Menu update
+9556,1087,2024-06-29,Email,Follow-up on performance
+9557,1087,2024-02-07,Phone,Discussed campaign
+9558,1087,2024-05-31,Email,Follow-up on performance
+9559,1088,2024-04-14,Phone,Menu update
+9560,1088,2024-05-27,WhatsApp,Menu update
+9561,1088,2024-02-08,In-person,Discussed campaign
+9562,1088,2024-01-16,In-person,Discussed campaign
+9563,1089,2024-02-26,Email,Follow-up on performance
+9564,1089,2024-06-25,In-person,Follow-up on performance
+9565,1089,2024-02-16,Email,Onboarding support
+9566,1090,2024-03-27,Phone,Discussed campaign
+9567,1090,2024-06-11,In-person,Discussed campaign
+9568,1090,2024-05-07,Email,Onboarding support
+9569,1090,2024-05-21,WhatsApp,Follow-up on performance
+9570,1090,2024-03-01,Email,Onboarding support
+9571,1090,2024-01-31,In-person,Follow-up on performance
+9572,1091,2024-02-27,In-person,Menu update
+9573,1091,2024-06-16,Email,Follow-up on performance
+9574,1091,2024-03-08,Phone,Onboarding support
+9575,1091,2024-01-05,WhatsApp,Discussed campaign
+9576,1091,2024-02-25,Email,Follow-up on performance
+9577,1092,2024-04-16,Email,Onboarding support
+9578,1092,2024-04-12,Phone,Onboarding support
+9579,1092,2024-01-19,WhatsApp,Follow-up on performance
+9580,1092,2024-06-03,In-person,Follow-up on performance
+9581,1092,2024-05-25,Phone,Discussed campaign
+9582,1092,2024-01-09,Phone,Onboarding support
+9583,1092,2024-05-27,Phone,Menu update
+9584,1092,2024-01-12,Email,Onboarding support
+9585,1093,2024-02-27,WhatsApp,Follow-up on performance
+9586,1093,2024-03-04,WhatsApp,Onboarding support
+9587,1093,2024-05-07,Email,Follow-up on performance
+9588,1094,2024-06-27,Email,Onboarding support
+9589,1094,2024-06-26,WhatsApp,Menu update
+9590,1094,2024-04-13,Email,Menu update
+9591,1094,2024-02-15,Phone,Onboarding support
+9592,1094,2024-06-15,Email,Follow-up on performance
+9593,1094,2024-06-05,Phone,Onboarding support
+9594,1095,2024-01-23,Email,Onboarding support
+9595,1095,2024-06-24,WhatsApp,Menu update
+9596,1095,2024-06-06,In-person,Menu update
+9597,1095,2024-02-20,In-person,Follow-up on performance
+9598,1095,2024-05-08,In-person,Follow-up on performance
+9599,1095,2024-05-09,Phone,Menu update
+9600,1095,2024-06-04,Email,Onboarding support
+9601,1096,2024-06-08,Email,Discussed campaign
+9602,1096,2024-04-14,Phone,Menu update
+9603,1096,2024-01-13,WhatsApp,Discussed campaign
+9604,1096,2024-02-12,Phone,Discussed campaign
+9605,1096,2024-03-21,Email,Menu update
+9606,1096,2024-05-29,WhatsApp,Menu update
+9607,1096,2024-04-13,In-person,Discussed campaign
+9608,1097,2024-05-14,Phone,Menu update
+9609,1097,2024-06-29,WhatsApp,Discussed campaign
+9610,1097,2024-02-13,Phone,Discussed campaign
+9611,1097,2024-03-13,Phone,Onboarding support
+9612,1098,2024-03-24,Phone,Menu update
+9613,1098,2024-02-18,Phone,Onboarding support
+9614,1098,2024-01-08,Email,Discussed campaign
+9615,1098,2024-02-03,Phone,Discussed campaign
+9616,1098,2024-02-09,Phone,Menu update
+9617,1098,2024-06-16,Phone,Menu update
+9618,1098,2024-02-10,In-person,Follow-up on performance
+9619,1098,2024-05-27,WhatsApp,Menu update
+9620,1099,2024-03-20,WhatsApp,Onboarding support
+9621,1099,2024-06-05,Email,Menu update
+9622,1099,2024-04-10,In-person,Menu update
+9623,1099,2024-02-11,In-person,Onboarding support
+9624,1099,2024-06-14,Email,Onboarding support
+9625,1099,2024-04-02,WhatsApp,Discussed campaign
+9626,1099,2024-04-08,Email,Follow-up on performance
+9627,1099,2024-03-28,WhatsApp,Discussed campaign
+9628,1099,2024-06-27,Email,Onboarding support
+9629,1100,2024-04-13,Email,Discussed campaign
+9630,1100,2024-02-15,In-person,Follow-up on performance
+9631,1100,2024-06-02,In-person,Follow-up on performance
+9632,1101,2024-01-01,In-person,Onboarding support
+9633,1101,2024-04-08,Email,Discussed campaign
+9634,1101,2024-01-20,Phone,Discussed campaign
+9635,1101,2024-06-12,In-person,Follow-up on performance
+9636,1101,2024-05-29,Phone,Discussed campaign
+9637,1102,2024-06-19,Phone,Onboarding support
+9638,1102,2024-03-18,WhatsApp,Follow-up on performance
+9639,1102,2024-04-20,Phone,Menu update
+9640,1102,2024-05-11,Phone,Discussed campaign
+9641,1102,2024-06-18,Phone,Follow-up on performance
+9642,1102,2024-05-15,Email,Menu update
+9643,1102,2024-02-19,WhatsApp,Menu update
+9644,1103,2024-01-12,In-person,Menu update
+9645,1103,2024-01-04,Phone,Follow-up on performance
+9646,1103,2024-02-26,In-person,Follow-up on performance
+9647,1104,2024-06-25,Phone,Menu update
+9648,1104,2024-06-04,WhatsApp,Menu update
+9649,1104,2024-05-31,WhatsApp,Menu update
+9650,1104,2024-04-23,Email,Follow-up on performance
+9651,1105,2024-02-07,In-person,Menu update
+9652,1105,2024-04-09,Phone,Onboarding support
+9653,1105,2024-03-11,In-person,Follow-up on performance
+9654,1106,2024-02-28,Phone,Follow-up on performance
+9655,1106,2024-06-09,Email,Follow-up on performance
+9656,1106,2024-03-23,Phone,Menu update
+9657,1107,2024-03-11,WhatsApp,Onboarding support
+9658,1107,2024-01-29,In-person,Discussed campaign
+9659,1107,2024-05-31,In-person,Follow-up on performance
+9660,1107,2024-04-22,In-person,Onboarding support
+9661,1107,2024-06-10,Phone,Onboarding support
+9662,1107,2024-02-07,WhatsApp,Follow-up on performance
+9663,1107,2024-03-29,In-person,Discussed campaign
+9664,1107,2024-05-04,In-person,Discussed campaign
+9665,1108,2024-03-21,WhatsApp,Follow-up on performance
+9666,1108,2024-06-03,WhatsApp,Discussed campaign
+9667,1108,2024-05-05,In-person,Discussed campaign
+9668,1108,2024-03-13,Email,Menu update
+9669,1108,2024-02-17,In-person,Menu update
+9670,1108,2024-02-19,Phone,Menu update
+9671,1109,2024-02-25,In-person,Onboarding support
+9672,1109,2024-02-05,WhatsApp,Menu update
+9673,1109,2024-02-05,WhatsApp,Follow-up on performance
+9674,1109,2024-04-10,WhatsApp,Discussed campaign
+9675,1109,2024-05-29,Email,Onboarding support
+9676,1109,2024-04-09,In-person,Follow-up on performance
+9677,1109,2024-01-15,In-person,Onboarding support
+9678,1109,2024-04-07,WhatsApp,Follow-up on performance
+9679,1109,2024-01-15,In-person,Menu update
+9680,1110,2024-02-21,WhatsApp,Discussed campaign
+9681,1110,2024-02-19,WhatsApp,Follow-up on performance
+9682,1110,2024-05-06,In-person,Follow-up on performance
+9683,1110,2024-01-29,WhatsApp,Onboarding support
+9684,1110,2024-05-30,In-person,Menu update
+9685,1110,2024-03-26,Phone,Follow-up on performance
+9686,1110,2024-05-18,Phone,Discussed campaign
+9687,1110,2024-05-18,Email,Menu update
+9688,1111,2024-05-02,WhatsApp,Discussed campaign
+9689,1111,2024-05-15,Email,Menu update
+9690,1111,2024-04-16,Phone,Follow-up on performance
+9691,1112,2024-04-25,Phone,Menu update
+9692,1112,2024-03-27,In-person,Onboarding support
+9693,1112,2024-06-20,WhatsApp,Menu update
+9694,1112,2024-05-21,Phone,Menu update
+9695,1112,2024-05-08,In-person,Discussed campaign
+9696,1112,2024-01-11,Email,Menu update
+9697,1113,2024-02-28,WhatsApp,Follow-up on performance
+9698,1113,2024-05-24,WhatsApp,Follow-up on performance
+9699,1113,2024-05-22,In-person,Follow-up on performance
+9700,1114,2024-01-30,In-person,Discussed campaign
+9701,1114,2024-03-16,WhatsApp,Onboarding support
+9702,1114,2024-03-07,Phone,Onboarding support
+9703,1114,2024-02-26,WhatsApp,Discussed campaign
+9704,1114,2024-05-15,Phone,Discussed campaign
+9705,1114,2024-05-06,Email,Follow-up on performance
+9706,1114,2024-05-24,WhatsApp,Onboarding support
+9707,1114,2024-02-24,Email,Onboarding support
+9708,1114,2024-01-26,In-person,Menu update
+9709,1114,2024-02-08,WhatsApp,Follow-up on performance
+9710,1115,2024-03-28,Phone,Menu update
+9711,1115,2024-03-12,WhatsApp,Follow-up on performance
+9712,1115,2024-02-02,Email,Follow-up on performance
+9713,1115,2024-02-10,WhatsApp,Discussed campaign
+9714,1115,2024-04-11,Email,Discussed campaign
+9715,1115,2024-06-02,Email,Onboarding support
+9716,1116,2024-01-22,Phone,Follow-up on performance
+9717,1116,2024-01-07,Phone,Menu update
+9718,1116,2024-06-03,WhatsApp,Onboarding support
+9719,1116,2024-05-22,Email,Onboarding support
+9720,1116,2024-02-21,Email,Discussed campaign
+9721,1117,2024-05-02,WhatsApp,Follow-up on performance
+9722,1117,2024-04-21,WhatsApp,Menu update
+9723,1117,2024-05-20,Phone,Discussed campaign
+9724,1117,2024-04-08,Email,Menu update
+9725,1117,2024-03-26,Phone,Follow-up on performance
+9726,1118,2024-05-25,WhatsApp,Discussed campaign
+9727,1118,2024-05-21,WhatsApp,Follow-up on performance
+9728,1118,2024-03-02,Phone,Onboarding support
+9729,1118,2024-02-25,WhatsApp,Onboarding support
+9730,1119,2024-04-18,Phone,Discussed campaign
+9731,1119,2024-03-01,Email,Menu update
+9732,1119,2024-06-01,In-person,Follow-up on performance
+9733,1119,2024-01-09,In-person,Menu update
+9734,1119,2024-06-29,In-person,Menu update
+9735,1119,2024-03-08,Phone,Follow-up on performance
+9736,1119,2024-02-02,Email,Menu update
+9737,1119,2024-03-20,Phone,Discussed campaign
+9738,1120,2024-05-25,WhatsApp,Follow-up on performance
+9739,1120,2024-04-13,WhatsApp,Menu update
+9740,1120,2024-03-08,Phone,Onboarding support
+9741,1120,2024-01-23,WhatsApp,Follow-up on performance
+9742,1120,2024-03-04,Phone,Menu update
+9743,1120,2024-04-06,In-person,Menu update
+9744,1120,2024-04-24,In-person,Discussed campaign
+9745,1120,2024-03-12,Phone,Onboarding support
+9746,1120,2024-03-28,WhatsApp,Discussed campaign
+9747,1121,2024-03-01,In-person,Follow-up on performance
+9748,1121,2024-06-17,WhatsApp,Menu update
+9749,1121,2024-04-13,WhatsApp,Onboarding support
+9750,1121,2024-06-11,Phone,Discussed campaign
+9751,1121,2024-03-01,Phone,Menu update
+9752,1121,2024-02-11,In-person,Menu update
+9753,1121,2024-05-29,WhatsApp,Menu update
+9754,1122,2024-05-13,Phone,Follow-up on performance
+9755,1122,2024-06-01,WhatsApp,Discussed campaign
+9756,1122,2024-03-08,Email,Menu update
+9757,1122,2024-05-25,WhatsApp,Follow-up on performance
+9758,1123,2024-05-13,Email,Onboarding support
+9759,1123,2024-05-02,In-person,Follow-up on performance
+9760,1123,2024-01-07,Email,Menu update
+9761,1123,2024-05-06,In-person,Follow-up on performance
+9762,1123,2024-03-16,Phone,Discussed campaign
+9763,1124,2024-06-18,In-person,Onboarding support
+9764,1124,2024-03-27,In-person,Menu update
+9765,1124,2024-02-11,WhatsApp,Menu update
+9766,1124,2024-04-16,WhatsApp,Menu update
+9767,1124,2024-01-07,Email,Menu update
+9768,1124,2024-02-12,In-person,Follow-up on performance
+9769,1124,2024-03-18,Phone,Onboarding support
+9770,1125,2024-01-13,Phone,Menu update
+9771,1125,2024-01-27,Email,Menu update
+9772,1125,2024-06-20,WhatsApp,Discussed campaign
+9773,1125,2024-02-04,In-person,Follow-up on performance
+9774,1125,2024-05-18,In-person,Follow-up on performance
+9775,1125,2024-01-05,Email,Menu update
+9776,1125,2024-04-27,Email,Menu update
+9777,1125,2024-04-20,WhatsApp,Discussed campaign
+9778,1125,2024-02-11,Phone,Onboarding support
+9779,1125,2024-05-18,In-person,Discussed campaign
+9780,1126,2024-04-19,Email,Discussed campaign
+9781,1126,2024-06-06,Email,Menu update
+9782,1126,2024-02-28,In-person,Onboarding support
+9783,1126,2024-01-08,WhatsApp,Menu update
+9784,1126,2024-05-23,WhatsApp,Discussed campaign
+9785,1126,2024-03-22,Email,Discussed campaign
+9786,1126,2024-01-15,In-person,Follow-up on performance
+9787,1127,2024-03-28,Phone,Menu update
+9788,1127,2024-01-17,In-person,Follow-up on performance
+9789,1127,2024-01-09,In-person,Onboarding support
+9790,1127,2024-05-26,WhatsApp,Follow-up on performance
+9791,1127,2024-06-24,Email,Discussed campaign
+9792,1127,2024-04-01,Phone,Onboarding support
+9793,1128,2024-02-01,In-person,Menu update
+9794,1128,2024-03-14,In-person,Discussed campaign
+9795,1128,2024-01-06,WhatsApp,Menu update
+9796,1128,2024-01-09,Email,Discussed campaign
+9797,1128,2024-01-29,Email,Discussed campaign
+9798,1128,2024-03-06,In-person,Follow-up on performance
+9799,1128,2024-04-23,WhatsApp,Discussed campaign
+9800,1129,2024-03-02,In-person,Onboarding support
+9801,1129,2024-03-07,Phone,Onboarding support
+9802,1129,2024-01-30,In-person,Menu update
+9803,1129,2024-01-28,In-person,Discussed campaign
+9804,1129,2024-02-11,In-person,Follow-up on performance
+9805,1130,2024-03-31,Phone,Menu update
+9806,1130,2024-06-07,WhatsApp,Follow-up on performance
+9807,1130,2024-03-30,In-person,Onboarding support
+9808,1130,2024-05-12,Phone,Follow-up on performance
+9809,1130,2024-04-11,Email,Follow-up on performance
+9810,1130,2024-05-01,WhatsApp,Onboarding support
+9811,1131,2024-04-18,Phone,Onboarding support
+9812,1131,2024-05-11,WhatsApp,Menu update
+9813,1131,2024-01-22,WhatsApp,Onboarding support
+9814,1131,2024-01-17,In-person,Onboarding support
+9815,1131,2024-02-16,In-person,Discussed campaign
+9816,1132,2024-03-07,WhatsApp,Discussed campaign
+9817,1132,2024-03-10,Phone,Follow-up on performance
+9818,1132,2024-01-07,WhatsApp,Follow-up on performance
+9819,1132,2024-01-08,Phone,Menu update
+9820,1132,2024-03-26,WhatsApp,Onboarding support
+9821,1133,2024-02-06,Phone,Menu update
+9822,1133,2024-06-12,WhatsApp,Menu update
+9823,1133,2024-04-06,Email,Onboarding support
+9824,1133,2024-06-15,Email,Menu update
+9825,1133,2024-06-25,Email,Discussed campaign
+9826,1133,2024-04-11,Email,Follow-up on performance
+9827,1133,2024-03-25,Email,Discussed campaign
+9828,1133,2024-04-10,WhatsApp,Discussed campaign
+9829,1133,2024-02-27,WhatsApp,Follow-up on performance
+9830,1134,2024-02-21,Email,Onboarding support
+9831,1134,2024-03-24,WhatsApp,Discussed campaign
+9832,1134,2024-02-23,WhatsApp,Follow-up on performance
+9833,1135,2024-06-09,In-person,Follow-up on performance
+9834,1135,2024-06-24,In-person,Discussed campaign
+9835,1135,2024-05-26,In-person,Onboarding support
+9836,1135,2024-04-10,In-person,Discussed campaign
+9837,1135,2024-01-22,Phone,Follow-up on performance
+9838,1135,2024-04-14,WhatsApp,Follow-up on performance
+9839,1136,2024-03-28,Email,Menu update
+9840,1136,2024-03-07,WhatsApp,Follow-up on performance
+9841,1136,2024-05-26,WhatsApp,Follow-up on performance
+9842,1136,2024-05-24,In-person,Discussed campaign
+9843,1136,2024-03-05,WhatsApp,Menu update
+9844,1136,2024-02-09,WhatsApp,Follow-up on performance
+9845,1136,2024-01-16,Email,Follow-up on performance
+9846,1136,2024-04-04,Phone,Discussed campaign
+9847,1136,2024-02-15,WhatsApp,Onboarding support
+9848,1136,2024-05-10,Phone,Follow-up on performance
+9849,1137,2024-04-15,In-person,Discussed campaign
+9850,1137,2024-04-12,In-person,Follow-up on performance
+9851,1137,2024-03-13,Phone,Discussed campaign
+9852,1137,2024-01-01,Email,Onboarding support
+9853,1137,2024-03-02,WhatsApp,Onboarding support
+9854,1137,2024-04-16,In-person,Onboarding support
+9855,1137,2024-05-07,WhatsApp,Follow-up on performance
+9856,1138,2024-06-11,Email,Follow-up on performance
+9857,1138,2024-03-02,Email,Onboarding support
+9858,1138,2024-05-27,Email,Discussed campaign
+9859,1139,2024-04-14,In-person,Follow-up on performance
+9860,1139,2024-02-22,Phone,Follow-up on performance
+9861,1139,2024-06-29,Phone,Follow-up on performance
+9862,1139,2024-02-21,In-person,Discussed campaign
+9863,1139,2024-01-29,In-person,Discussed campaign
+9864,1139,2024-03-18,WhatsApp,Menu update
+9865,1139,2024-04-15,WhatsApp,Discussed campaign
+9866,1139,2024-01-14,Email,Menu update
+9867,1140,2024-02-24,In-person,Follow-up on performance
+9868,1140,2024-03-10,WhatsApp,Menu update
+9869,1140,2024-01-14,In-person,Menu update
+9870,1140,2024-03-17,WhatsApp,Menu update
+9871,1141,2024-04-25,WhatsApp,Follow-up on performance
+9872,1141,2024-06-21,Email,Menu update
+9873,1141,2024-04-29,Email,Onboarding support
+9874,1142,2024-02-27,Phone,Onboarding support
+9875,1142,2024-04-07,Email,Menu update
+9876,1142,2024-02-25,Email,Onboarding support
+9877,1142,2024-05-15,In-person,Onboarding support
+9878,1142,2024-06-12,In-person,Follow-up on performance
+9879,1143,2024-03-22,Email,Menu update
+9880,1143,2024-01-04,Phone,Onboarding support
+9881,1143,2024-01-13,Phone,Onboarding support
+9882,1143,2024-04-05,In-person,Menu update
+9883,1144,2024-02-22,In-person,Onboarding support
+9884,1144,2024-06-12,WhatsApp,Follow-up on performance
+9885,1144,2024-05-29,Phone,Discussed campaign
+9886,1144,2024-06-28,Email,Menu update
+9887,1144,2024-06-03,Email,Menu update
+9888,1144,2024-04-28,Phone,Onboarding support
+9889,1144,2024-03-19,Email,Discussed campaign
+9890,1144,2024-05-30,Phone,Follow-up on performance
+9891,1144,2024-05-18,WhatsApp,Onboarding support
+9892,1144,2024-02-08,WhatsApp,Onboarding support
+9893,1145,2024-06-10,In-person,Menu update
+9894,1145,2024-04-14,In-person,Onboarding support
+9895,1145,2024-06-07,Phone,Menu update
+9896,1146,2024-01-24,WhatsApp,Menu update
+9897,1146,2024-06-29,WhatsApp,Menu update
+9898,1146,2024-04-10,WhatsApp,Menu update
+9899,1146,2024-05-11,In-person,Discussed campaign
+9900,1146,2024-01-23,Email,Menu update
+9901,1146,2024-06-25,In-person,Menu update
+9902,1147,2024-04-20,Email,Onboarding support
+9903,1147,2024-01-02,Email,Menu update
+9904,1147,2024-01-12,In-person,Follow-up on performance
+9905,1147,2024-03-10,Phone,Follow-up on performance
+9906,1147,2024-01-01,Email,Follow-up on performance
+9907,1147,2024-04-12,Phone,Discussed campaign
+9908,1147,2024-06-02,In-person,Menu update
+9909,1148,2024-03-19,WhatsApp,Follow-up on performance
+9910,1148,2024-01-13,Phone,Follow-up on performance
+9911,1148,2024-03-03,WhatsApp,Follow-up on performance
+9912,1148,2024-04-13,Phone,Discussed campaign
+9913,1148,2024-05-05,WhatsApp,Follow-up on performance
+9914,1148,2024-04-04,Email,Onboarding support
+9915,1148,2024-02-18,Phone,Onboarding support
+9916,1149,2024-03-08,Email,Discussed campaign
+9917,1149,2024-03-24,WhatsApp,Discussed campaign
+9918,1149,2024-03-26,WhatsApp,Discussed campaign
+9919,1149,2024-02-06,Email,Onboarding support
+9920,1149,2024-03-28,Email,Onboarding support
+9921,1149,2024-02-23,Email,Discussed campaign
+9922,1149,2024-01-10,Email,Onboarding support
+9923,1149,2024-04-15,Phone,Discussed campaign
+9924,1150,2024-04-16,Email,Follow-up on performance
+9925,1150,2024-05-17,WhatsApp,Menu update
+9926,1150,2024-04-27,WhatsApp,Discussed campaign
+9927,1150,2024-02-10,Email,Onboarding support
+9928,1150,2024-05-11,Email,Onboarding support
+9929,1150,2024-03-20,WhatsApp,Discussed campaign
+9930,1151,2024-06-11,In-person,Menu update
+9931,1151,2024-04-16,In-person,Onboarding support
+9932,1151,2024-02-05,WhatsApp,Follow-up on performance
+9933,1151,2024-02-12,WhatsApp,Discussed campaign
+9934,1151,2024-03-02,Phone,Discussed campaign
+9935,1151,2024-02-07,WhatsApp,Onboarding support
+9936,1151,2024-05-25,Email,Menu update
+9937,1151,2024-04-16,WhatsApp,Discussed campaign
+9938,1151,2024-04-27,In-person,Follow-up on performance
+9939,1152,2024-02-24,Email,Menu update
+9940,1152,2024-01-21,WhatsApp,Menu update
+9941,1152,2024-03-07,Phone,Onboarding support
+9942,1152,2024-06-03,WhatsApp,Menu update
+9943,1152,2024-02-19,WhatsApp,Onboarding support
+9944,1152,2024-02-06,WhatsApp,Menu update
+9945,1152,2024-01-23,Email,Onboarding support
+9946,1152,2024-06-13,Email,Discussed campaign
+9947,1153,2024-04-05,Email,Follow-up on performance
+9948,1153,2024-02-19,Phone,Onboarding support
+9949,1153,2024-06-19,In-person,Menu update
+9950,1153,2024-04-29,In-person,Discussed campaign
+9951,1153,2024-05-19,In-person,Discussed campaign
+9952,1153,2024-02-25,Phone,Menu update
+9953,1153,2024-01-24,WhatsApp,Follow-up on performance
+9954,1153,2024-02-12,In-person,Follow-up on performance
+9955,1153,2024-06-13,In-person,Follow-up on performance
+9956,1153,2024-01-13,In-person,Discussed campaign
+9957,1154,2024-06-04,Email,Discussed campaign
+9958,1154,2024-02-11,WhatsApp,Onboarding support
+9959,1154,2024-02-01,WhatsApp,Menu update
+9960,1154,2024-06-27,WhatsApp,Follow-up on performance
+9961,1154,2024-05-24,Phone,Discussed campaign
+9962,1154,2024-05-19,Phone,Menu update
+9963,1154,2024-05-10,WhatsApp,Discussed campaign
+9964,1154,2024-04-03,In-person,Follow-up on performance
+9965,1154,2024-04-05,In-person,Menu update
+9966,1154,2024-04-15,Phone,Discussed campaign
+9967,1155,2024-06-05,In-person,Discussed campaign
+9968,1155,2024-04-22,Phone,Follow-up on performance
+9969,1155,2024-04-06,WhatsApp,Onboarding support
+9970,1155,2024-02-04,WhatsApp,Follow-up on performance
+9971,1155,2024-03-26,Email,Menu update
+9972,1155,2024-03-19,WhatsApp,Follow-up on performance
+9973,1156,2024-05-26,Phone,Follow-up on performance
+9974,1156,2024-01-06,Phone,Discussed campaign
+9975,1156,2024-01-18,In-person,Follow-up on performance
+9976,1156,2024-03-16,Phone,Follow-up on performance
+9977,1156,2024-01-11,Phone,Menu update
+9978,1157,2024-01-18,Phone,Discussed campaign
+9979,1157,2024-03-12,WhatsApp,Menu update
+9980,1157,2024-02-14,Email,Onboarding support
+9981,1157,2024-06-22,Email,Onboarding support
+9982,1157,2024-05-01,Phone,Discussed campaign
+9983,1157,2024-02-03,In-person,Discussed campaign
+9984,1157,2024-04-22,In-person,Discussed campaign
+9985,1158,2024-06-16,Email,Menu update
+9986,1158,2024-04-28,WhatsApp,Discussed campaign
+9987,1158,2024-05-07,WhatsApp,Discussed campaign
+9988,1158,2024-02-11,Email,Follow-up on performance
+9989,1158,2024-03-25,In-person,Onboarding support
+9990,1158,2024-04-15,Email,Menu update
+9991,1158,2024-06-26,Email,Onboarding support
+9992,1158,2024-02-21,Phone,Menu update
+9993,1158,2024-03-16,Phone,Discussed campaign
+9994,1159,2024-03-31,In-person,Menu update
+9995,1159,2024-04-14,WhatsApp,Follow-up on performance
+9996,1159,2024-06-29,Email,Onboarding support
+9997,1160,2024-02-13,Email,Follow-up on performance
+9998,1160,2024-04-13,Phone,Discussed campaign
+9999,1160,2024-06-20,Email,Follow-up on performance
+10000,1160,2024-01-27,In-person,Follow-up on performance
+10001,1160,2024-03-24,Email,Onboarding support
+10002,1160,2024-02-20,Phone,Menu update
+10003,1160,2024-02-26,Phone,Follow-up on performance
+10004,1160,2024-06-17,Phone,Menu update
+10005,1160,2024-01-11,Email,Follow-up on performance
+10006,1161,2024-06-11,Email,Onboarding support
+10007,1161,2024-01-29,WhatsApp,Follow-up on performance
+10008,1161,2024-01-27,Email,Discussed campaign
+10009,1161,2024-01-11,In-person,Menu update
+10010,1161,2024-06-10,In-person,Onboarding support
+10011,1161,2024-03-01,WhatsApp,Onboarding support
+10012,1162,2024-01-18,WhatsApp,Discussed campaign
+10013,1162,2024-02-23,Phone,Menu update
+10014,1162,2024-01-13,In-person,Onboarding support
+10015,1162,2024-01-21,Email,Menu update
+10016,1162,2024-02-28,Phone,Follow-up on performance
+10017,1162,2024-04-29,In-person,Discussed campaign
+10018,1162,2024-03-10,Phone,Follow-up on performance
+10019,1162,2024-02-06,WhatsApp,Follow-up on performance
+10020,1163,2024-02-04,Phone,Onboarding support
+10021,1163,2024-05-31,Phone,Onboarding support
+10022,1163,2024-05-24,Phone,Follow-up on performance
+10023,1164,2024-04-19,Phone,Follow-up on performance
+10024,1164,2024-03-04,Phone,Onboarding support
+10025,1164,2024-04-24,Email,Onboarding support
+10026,1164,2024-05-02,Phone,Onboarding support
+10027,1164,2024-01-24,Email,Follow-up on performance
+10028,1164,2024-06-04,Email,Onboarding support
+10029,1165,2024-02-22,WhatsApp,Menu update
+10030,1165,2024-05-15,Email,Menu update
+10031,1165,2024-01-24,In-person,Discussed campaign
+10032,1165,2024-04-24,In-person,Follow-up on performance
+10033,1165,2024-04-12,WhatsApp,Discussed campaign
+10034,1165,2024-03-29,WhatsApp,Onboarding support
+10035,1165,2024-03-03,Phone,Onboarding support
+10036,1166,2024-02-07,In-person,Menu update
+10037,1166,2024-02-16,WhatsApp,Discussed campaign
+10038,1166,2024-01-31,Phone,Follow-up on performance
+10039,1166,2024-02-02,Email,Discussed campaign
+10040,1166,2024-01-20,WhatsApp,Menu update
+10041,1166,2024-05-31,In-person,Discussed campaign
+10042,1166,2024-01-31,WhatsApp,Menu update
+10043,1166,2024-02-20,In-person,Follow-up on performance
+10044,1166,2024-04-05,WhatsApp,Menu update
+10045,1166,2024-02-24,Phone,Menu update
+10046,1167,2024-01-22,In-person,Discussed campaign
+10047,1167,2024-01-28,WhatsApp,Onboarding support
+10048,1167,2024-05-25,In-person,Menu update
+10049,1167,2024-06-10,WhatsApp,Onboarding support
+10050,1167,2024-05-24,WhatsApp,Follow-up on performance
+10051,1167,2024-05-27,In-person,Onboarding support
+10052,1167,2024-01-13,Phone,Menu update
+10053,1167,2024-04-27,Phone,Onboarding support
+10054,1167,2024-05-17,WhatsApp,Menu update
+10055,1168,2024-06-10,WhatsApp,Menu update
+10056,1168,2024-05-22,WhatsApp,Menu update
+10057,1168,2024-06-12,In-person,Menu update
+10058,1168,2024-06-12,Email,Menu update
+10059,1168,2024-02-06,Email,Menu update
+10060,1169,2024-04-05,Email,Menu update
+10061,1169,2024-04-23,Email,Follow-up on performance
+10062,1169,2024-04-13,In-person,Discussed campaign
+10063,1169,2024-01-01,WhatsApp,Discussed campaign
+10064,1170,2024-05-26,Phone,Onboarding support
+10065,1170,2024-04-28,WhatsApp,Onboarding support
+10066,1170,2024-01-10,WhatsApp,Onboarding support
+10067,1170,2024-02-09,WhatsApp,Onboarding support
+10068,1170,2024-05-04,WhatsApp,Discussed campaign
+10069,1170,2024-03-29,Email,Menu update
+10070,1170,2024-05-22,In-person,Follow-up on performance
+10071,1170,2024-02-03,Phone,Discussed campaign
+10072,1171,2024-03-01,Phone,Menu update
+10073,1171,2024-06-02,In-person,Onboarding support
+10074,1171,2024-02-04,Email,Onboarding support
+10075,1171,2024-04-07,Email,Menu update
+10076,1171,2024-01-31,Phone,Menu update
+10077,1171,2024-06-18,WhatsApp,Menu update
+10078,1171,2024-03-24,Email,Follow-up on performance
+10079,1171,2024-03-26,Phone,Follow-up on performance
+10080,1171,2024-02-05,WhatsApp,Menu update
+10081,1171,2024-01-09,WhatsApp,Onboarding support
+10082,1172,2024-05-09,WhatsApp,Menu update
+10083,1172,2024-02-03,Phone,Onboarding support
+10084,1172,2024-02-28,Phone,Menu update
+10085,1172,2024-06-09,Phone,Menu update
+10086,1172,2024-05-17,In-person,Follow-up on performance
+10087,1172,2024-05-26,In-person,Follow-up on performance
+10088,1172,2024-02-03,Phone,Onboarding support
+10089,1172,2024-02-02,Email,Discussed campaign
+10090,1172,2024-03-28,Email,Discussed campaign
+10091,1172,2024-02-02,In-person,Discussed campaign
+10092,1173,2024-05-30,Phone,Discussed campaign
+10093,1173,2024-01-09,Phone,Follow-up on performance
+10094,1173,2024-05-02,Phone,Onboarding support
+10095,1174,2024-06-09,WhatsApp,Discussed campaign
+10096,1174,2024-06-08,WhatsApp,Onboarding support
+10097,1174,2024-01-09,Email,Menu update
+10098,1174,2024-01-22,In-person,Onboarding support
+10099,1175,2024-04-18,WhatsApp,Onboarding support
+10100,1175,2024-06-10,In-person,Onboarding support
+10101,1175,2024-06-01,Phone,Discussed campaign
+10102,1175,2024-06-02,Email,Follow-up on performance
+10103,1175,2024-02-11,Email,Follow-up on performance
+10104,1175,2024-03-31,Email,Follow-up on performance
+10105,1175,2024-04-26,In-person,Menu update
+10106,1175,2024-05-29,Email,Discussed campaign
+10107,1175,2024-05-02,WhatsApp,Discussed campaign
+10108,1175,2024-05-06,WhatsApp,Discussed campaign
+10109,1176,2024-05-30,WhatsApp,Discussed campaign
+10110,1176,2024-06-13,Email,Menu update
+10111,1176,2024-05-03,WhatsApp,Discussed campaign
+10112,1176,2024-05-27,Email,Discussed campaign
+10113,1176,2024-06-21,Phone,Menu update
+10114,1176,2024-03-12,In-person,Follow-up on performance
+10115,1177,2024-03-16,Phone,Menu update
+10116,1177,2024-01-29,Phone,Follow-up on performance
+10117,1177,2024-06-26,Phone,Discussed campaign
+10118,1177,2024-06-14,In-person,Follow-up on performance
+10119,1177,2024-02-07,Phone,Onboarding support
+10120,1177,2024-03-20,WhatsApp,Discussed campaign
+10121,1177,2024-02-29,In-person,Onboarding support
+10122,1178,2024-06-29,Phone,Onboarding support
+10123,1178,2024-02-02,Phone,Menu update
+10124,1178,2024-01-20,Email,Follow-up on performance
+10125,1179,2024-06-10,Phone,Menu update
+10126,1179,2024-02-27,Email,Discussed campaign
+10127,1179,2024-01-30,Phone,Menu update
+10128,1179,2024-03-28,Phone,Menu update
+10129,1179,2024-03-18,Email,Menu update
+10130,1180,2024-05-30,Email,Onboarding support
+10131,1180,2024-02-19,In-person,Follow-up on performance
+10132,1180,2024-06-28,Phone,Discussed campaign
+10133,1180,2024-06-20,Email,Menu update
+10134,1180,2024-05-26,In-person,Discussed campaign
+10135,1180,2024-03-20,WhatsApp,Menu update
+10136,1180,2024-02-07,Email,Discussed campaign
+10137,1180,2024-06-16,In-person,Follow-up on performance
+10138,1180,2024-03-13,WhatsApp,Follow-up on performance
+10139,1180,2024-06-12,Phone,Menu update
+10140,1181,2024-01-16,Email,Follow-up on performance
+10141,1181,2024-06-28,WhatsApp,Discussed campaign
+10142,1181,2024-06-07,In-person,Onboarding support
+10143,1181,2024-06-19,Phone,Follow-up on performance
+10144,1181,2024-02-03,WhatsApp,Onboarding support
+10145,1181,2024-06-24,WhatsApp,Menu update
+10146,1181,2024-04-29,WhatsApp,Follow-up on performance
+10147,1181,2024-01-28,WhatsApp,Menu update
+10148,1181,2024-01-15,In-person,Follow-up on performance
+10149,1182,2024-02-21,Phone,Menu update
+10150,1182,2024-06-12,Email,Follow-up on performance
+10151,1182,2024-01-26,Phone,Onboarding support
+10152,1182,2024-05-15,Email,Onboarding support
+10153,1182,2024-03-26,Phone,Follow-up on performance
+10154,1182,2024-03-22,Phone,Discussed campaign
+10155,1182,2024-06-18,Email,Follow-up on performance
+10156,1183,2024-01-19,WhatsApp,Onboarding support
+10157,1183,2024-05-22,Email,Follow-up on performance
+10158,1183,2024-03-05,Phone,Onboarding support
+10159,1183,2024-01-09,WhatsApp,Discussed campaign
+10160,1183,2024-03-31,Email,Follow-up on performance
+10161,1183,2024-06-06,Email,Onboarding support
+10162,1184,2024-05-07,Email,Discussed campaign
+10163,1184,2024-01-23,WhatsApp,Onboarding support
+10164,1184,2024-06-25,WhatsApp,Discussed campaign
+10165,1184,2024-03-29,In-person,Menu update
+10166,1185,2024-05-07,WhatsApp,Discussed campaign
+10167,1185,2024-02-19,Phone,Follow-up on performance
+10168,1185,2024-03-16,WhatsApp,Discussed campaign
+10169,1185,2024-01-28,Phone,Discussed campaign
+10170,1185,2024-05-19,Email,Onboarding support
+10171,1185,2024-06-15,WhatsApp,Follow-up on performance
+10172,1185,2024-05-16,Phone,Discussed campaign
+10173,1186,2024-01-01,In-person,Follow-up on performance
+10174,1186,2024-05-03,Phone,Follow-up on performance
+10175,1186,2024-05-15,Email,Onboarding support
+10176,1186,2024-01-30,WhatsApp,Discussed campaign
+10177,1186,2024-02-08,Email,Follow-up on performance
+10178,1186,2024-03-30,WhatsApp,Follow-up on performance
+10179,1186,2024-02-09,In-person,Discussed campaign
+10180,1186,2024-02-23,WhatsApp,Onboarding support
+10181,1186,2024-03-02,Phone,Onboarding support
+10182,1186,2024-03-19,WhatsApp,Follow-up on performance
+10183,1187,2024-06-10,WhatsApp,Onboarding support
+10184,1187,2024-02-22,Phone,Menu update
+10185,1187,2024-01-27,Email,Follow-up on performance
+10186,1187,2024-04-27,Email,Onboarding support
+10187,1187,2024-05-19,In-person,Discussed campaign
+10188,1187,2024-03-13,Phone,Onboarding support
+10189,1187,2024-04-01,Phone,Discussed campaign
+10190,1187,2024-04-02,In-person,Discussed campaign
+10191,1187,2024-04-21,Phone,Discussed campaign
+10192,1187,2024-02-19,In-person,Menu update
+10193,1188,2024-01-30,Email,Discussed campaign
+10194,1188,2024-06-02,In-person,Menu update
+10195,1188,2024-04-05,Phone,Onboarding support
+10196,1188,2024-01-07,Phone,Follow-up on performance
+10197,1188,2024-04-16,Email,Onboarding support
+10198,1188,2024-02-03,Phone,Discussed campaign
+10199,1188,2024-02-21,Phone,Menu update
+10200,1188,2024-04-27,Email,Onboarding support
+10201,1188,2024-03-18,Phone,Discussed campaign
+10202,1189,2024-05-24,WhatsApp,Discussed campaign
+10203,1189,2024-06-23,Email,Onboarding support
+10204,1189,2024-02-17,WhatsApp,Follow-up on performance
+10205,1189,2024-01-15,WhatsApp,Onboarding support
+10206,1189,2024-04-21,Email,Onboarding support
+10207,1189,2024-02-07,In-person,Follow-up on performance
+10208,1189,2024-03-27,Phone,Discussed campaign
+10209,1189,2024-01-10,WhatsApp,Onboarding support
+10210,1190,2024-05-27,WhatsApp,Follow-up on performance
+10211,1190,2024-01-27,Email,Follow-up on performance
+10212,1190,2024-01-08,Phone,Menu update
+10213,1190,2024-01-06,Email,Discussed campaign
+10214,1190,2024-06-19,Phone,Menu update
+10215,1190,2024-04-14,Email,Follow-up on performance
+10216,1190,2024-03-30,Email,Follow-up on performance
+10217,1190,2024-01-29,Phone,Discussed campaign
+10218,1190,2024-03-14,WhatsApp,Menu update
+10219,1190,2024-04-02,In-person,Follow-up on performance
+10220,1191,2024-04-10,Phone,Menu update
+10221,1191,2024-01-21,WhatsApp,Follow-up on performance
+10222,1191,2024-04-21,Phone,Follow-up on performance
+10223,1191,2024-06-03,Phone,Follow-up on performance
+10224,1191,2024-03-03,In-person,Follow-up on performance
+10225,1191,2024-04-10,WhatsApp,Follow-up on performance
+10226,1191,2024-04-03,Phone,Menu update
+10227,1191,2024-01-26,Email,Onboarding support
+10228,1192,2024-05-26,Phone,Follow-up on performance
+10229,1192,2024-05-12,WhatsApp,Onboarding support
+10230,1192,2024-03-24,Phone,Onboarding support
+10231,1192,2024-02-08,In-person,Discussed campaign
+10232,1193,2024-04-07,In-person,Menu update
+10233,1193,2024-06-23,WhatsApp,Menu update
+10234,1193,2024-01-15,WhatsApp,Follow-up on performance
+10235,1193,2024-02-17,Email,Onboarding support
+10236,1193,2024-03-17,In-person,Onboarding support
+10237,1193,2024-02-22,Phone,Follow-up on performance
+10238,1193,2024-05-21,Phone,Discussed campaign
+10239,1194,2024-01-08,Phone,Onboarding support
+10240,1194,2024-01-02,WhatsApp,Discussed campaign
+10241,1194,2024-01-26,Phone,Follow-up on performance
+10242,1194,2024-04-25,WhatsApp,Menu update
+10243,1194,2024-03-13,Phone,Follow-up on performance
+10244,1194,2024-03-25,Email,Follow-up on performance
+10245,1194,2024-06-09,Phone,Follow-up on performance
+10246,1194,2024-03-18,WhatsApp,Follow-up on performance
+10247,1194,2024-02-04,WhatsApp,Menu update
+10248,1194,2024-03-07,In-person,Follow-up on performance
+10249,1195,2024-06-28,Email,Discussed campaign
+10250,1195,2024-06-04,Phone,Follow-up on performance
+10251,1195,2024-03-22,Email,Menu update
+10252,1195,2024-04-25,In-person,Onboarding support
+10253,1195,2024-01-01,Phone,Menu update
+10254,1195,2024-02-18,Email,Menu update
+10255,1195,2024-02-24,WhatsApp,Discussed campaign
+10256,1196,2024-02-26,WhatsApp,Onboarding support
+10257,1196,2024-05-17,WhatsApp,Discussed campaign
+10258,1196,2024-01-12,In-person,Onboarding support
+10259,1196,2024-01-17,Email,Menu update
+10260,1196,2024-01-19,Email,Discussed campaign
+10261,1196,2024-02-19,Phone,Discussed campaign
+10262,1196,2024-03-03,Email,Onboarding support
+10263,1196,2024-01-20,WhatsApp,Menu update
+10264,1196,2024-01-05,WhatsApp,Onboarding support
+10265,1196,2024-06-13,WhatsApp,Discussed campaign
+10266,1197,2024-04-04,WhatsApp,Menu update
+10267,1197,2024-01-02,Email,Discussed campaign
+10268,1197,2024-03-19,WhatsApp,Follow-up on performance
+10269,1197,2024-02-09,WhatsApp,Onboarding support
+10270,1197,2024-01-01,In-person,Menu update
+10271,1197,2024-05-04,In-person,Follow-up on performance
+10272,1198,2024-03-13,WhatsApp,Onboarding support
+10273,1198,2024-01-21,Phone,Menu update
+10274,1198,2024-05-10,Phone,Menu update
+10275,1198,2024-01-30,Email,Follow-up on performance
+10276,1198,2024-01-23,Phone,Onboarding support
+10277,1198,2024-02-08,Phone,Onboarding support
+10278,1198,2024-02-10,Phone,Discussed campaign
+10279,1198,2024-02-13,Email,Menu update
+10280,1198,2024-06-26,Email,Discussed campaign
+10281,1198,2024-06-17,In-person,Discussed campaign
+10282,1199,2024-06-19,In-person,Menu update
+10283,1199,2024-02-10,Phone,Discussed campaign
+10284,1199,2024-01-07,In-person,Follow-up on performance
+10285,1199,2024-05-22,Email,Onboarding support
+10286,1199,2024-03-02,In-person,Discussed campaign
+10287,1199,2024-04-21,In-person,Discussed campaign
+10288,1199,2024-03-26,WhatsApp,Menu update
+10289,1200,2024-04-12,Phone,Discussed campaign
+10290,1200,2024-02-21,Email,Discussed campaign
+10291,1200,2024-05-29,In-person,Follow-up on performance
+10292,1200,2024-02-01,In-person,Menu update
+10293,1200,2024-01-25,Phone,Menu update
+10294,1200,2024-05-06,In-person,Follow-up on performance
